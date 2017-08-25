@@ -1,6 +1,6 @@
 # Hey!
 ----
-### Welcome to the repo of [trop.io](http://trop.io) aka [tropsite](github.com/trophic/tropsite) aka **trophic's website** aka **@trophicality** aka [@trophic](github.com/trophic/) aka *you get the point*.
+### Welcome to the repo of [trop.io](http://trop.io) aka [tropsite](https://github.com/Trophic/tropsite) aka **trophic's website** aka **@trophicality** aka [@trophic](https://github.com/Trophic) aka *you get the point*.
 -----
 #### Have a poke around, it's not really that interesting (other than the terrible terrible css).
 ------
