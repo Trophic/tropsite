@@ -18,7 +18,7 @@ p{
   padding: auto;
 }
 
-comic{
+.comic {
   border:1px dotted ;
   float:left;
   line-height: 10px;
