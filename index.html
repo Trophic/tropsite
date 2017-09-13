@@ -21,28 +21,13 @@
     <![endif]-->
   </head>
   <body>
-    <div>
-      <header>
-        <h1>trop.io</h1>
-        <!--I am going to change the description at some point -->
-        <p>Hey, this is my site!</p>
-        <p>Oh look! Use this E Mail to talk to me!</p>
-        <!-- doing this to stop bots scraping my mthing -->
-        <div><a href="https://imgur.com/cEtLhZe"><img src="https://i.imgur.com/cEtLhZe.png" title="source: imgur.com" /></a>
-        <!-- this next bit is just for github pages -->
-        <p class="view"><a href="https://github.com/Trophic/tropsite">Or check this site on my GitHub! <small>@Trophic/tropsite</small></a></p>
-      </header>
-      <section>
-        <!-- section is not entirely pointless, will fix later -->
-          <div><strong>I do do do until I can't do no more. Check me out on github but don't look me up on reddit.</strong></div>
+      {% include header %}
+      {% include site words %}
       {% include Content/comics/comic.html %}
-        <!-- uh, yeah so, I had to delete the footer for "reasons". It will be back!-->
-          <div class=footer>
-            <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-          </div>
-        </section>
-    </div>
-        <!-- I still don't quite understand this -->
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   </body>
+  <footer>
+    <stuff>
+    </stuff>
+  </footer>
 </html>
