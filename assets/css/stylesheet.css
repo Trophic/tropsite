@@ -28,6 +28,11 @@ p{
   line-height: 11px;
 }
 
+.infocomic {
+	margin-top: 11px;
+  float:middle;
+}
+
 a {
   color:#267CB9;
   text-decoration:none;
