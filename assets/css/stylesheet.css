@@ -31,7 +31,65 @@ p{
   float:left;
   line-height: 11px;
 }
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+/*
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+  background-color: red;
+}
 
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.icon {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.fa-user:hover {
+  color: #eee;
+}
+ .comicnsfw {
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  border:1px dotted;
+  float:left;
+  line-height: 11px;
+}
+
+.comicnsfw:hover .overlay {
+  opacity: 1;
+}
+
+.uncensored {
+	border:1px dotted;
+  float:left;
+  line-height: 11px;
+  opacity: 0;
+  transition: .3s ease;
+	-webkit-filter: blur(5px);
+	filter: blur(5px);
+}
+*/
 .infocomic {
 	margin-top: 11px;
   float:middle;
@@ -67,6 +125,11 @@ code, pre {
 img {
   max-width:100%;
 }
+
+.img {
+  max-width:100%;
+}
+
 
 header {
   width:270px;
