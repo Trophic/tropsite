@@ -1,23 +1,50 @@
+/* Style guide
+
+element {
+float: ;
+colour: ;
+padding: ;
+margin: ;
+position: ;
+etc: ;
+}
+*/
+
 body {
   background-color:#EAEFE8;
-  padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
+	padding:50px;
   font-weight:400;
 }
 
-h1{
+section {
+	float:right;
+	background-color:#EAEFE8;
+  width:500px;
+  padding-bottom:50px;
+}
+
+.footer {
+  float:right;
+	background-color:#EAEFE8;
+  padding-bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+h1 {
   color:#222;
   margin:0 0 20px;
   line-height:1.1;
   font-size:28px;
 }
 
-p{
+p {
+	padding: auto;
   margin: auto;
-  padding: auto;
 }
-/* The Magic Float Center Code by Alexandre Dees*/
+
+/* The Magic Float Center Code by Alexandre Dees */
 .comictext {
   float: right;
 }
@@ -27,18 +54,17 @@ p{
 }
 
 .comic {
+	float:left;
   border:1px dotted;
-  float:left;
   line-height: 11px;
 }
 
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
+.infocomic {
+  float:middle;
+	margin-top: 8px;
 }
- /* The checkbox hack! Credit to https://gist.github.com/arbales/592332 */
 
+/* The checkbox hack! Credit to https://gist.github.com/arbales/592332 */
 input[type=checkbox] {
 	 display:none;
 }
@@ -56,11 +82,6 @@ input[type=checkbox]:checked + label {
 	 display:inline-block;
 }
 
-.infocomic {
-	margin-top: 8px;
-  float:middle;
-}
-
 a {
   color:#267CB9;
   text-decoration:none;
@@ -72,9 +93,9 @@ a:hover, a:focus {
 }
 
 a small {
+	color:#777;
+	margin-top:-0.3em;
   font-size:11px;
-  color:#777;
-  margin-top:-0.3em;
   display:block;
 }
 
@@ -83,8 +104,8 @@ a:hover small {
 }
 
 code, pre {
+	color:#333;
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
   font-size:12px;
 }
 
@@ -92,14 +113,9 @@ img {
   max-width:100%;
 }
 
-.img {
-  max-width:100%;
-}
-
-
 header {
+	float:left;
   width:270px;
-  float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -109,22 +125,8 @@ strong {
   font-weight:700;
 }
 
-section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
-  background-color:#EAEFE8;
-}
-
 small {
   font-size:11px;
-}
-
-.footer {
-  float:right;
-  padding-bottom:50px;
-  background-color:#EAEFE8;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 @media print, screen and (max-width: 960px) {
