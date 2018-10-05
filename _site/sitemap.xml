@@ -1,21 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://trop.io/</loc>
-    <lastmod>2018-08-23</lastmod>
-  </url>
-  <url>
-    <loc>https://trop.io/stats.html</loc>
-    <lastmod>2018-08-23</lastmod>
-  </url>
-  <url>
-    <loc>https://trop.io/page2</loc>
-    <lastmod>2018-08-23</lastmod>
-  </url>
-  <url>
-    <loc>https://trop.io/page3</loc>
-    <lastmod>2018-08-23</lastmod>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://trop.io/authors/trophic.html</loc>
+<lastmod>2018-10-05T16:27:55+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/comic/2018/10/05/comic1.html</loc>
+<lastmod>2018-10-05T00:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/2018/10/05/projects.html</loc>
+<lastmod>2018-10-05T12:04:35+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/about.html</loc>
+</url>
+<url>
+<loc>https://trop.io/blog.html</loc>
+</url>
+<url>
+<loc>https://trop.io/comics.html</loc>
+</url>
+<url>
+<loc>https://trop.io/</loc>
+</url>
+<url>
+<loc>https://trop.io/oldhtml/</loc>
+<lastmod>2018-09-20T17:50:36+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/oldhtml/oldnew/</loc>
+<lastmod>2018-09-20T18:03:57+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/oldhtml/oldnew/page2.html</loc>
+<lastmod>2018-09-20T18:03:57+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/oldhtml/oldnew/page3.html</loc>
+<lastmod>2018-09-20T18:03:57+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/oldhtml/oldnew/stats.html</loc>
+<lastmod>2018-08-23T17:17:10+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/oldhtml/page2.html</loc>
+<lastmod>2018-09-20T17:50:36+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/oldhtml/page3.html</loc>
+<lastmod>2018-09-20T17:50:36+10:00</lastmod>
+</url>
+<url>
+<loc>https://trop.io/oldhtml/stats.html</loc>
+<lastmod>2018-09-20T17:50:36+10:00</lastmod>
+</url>
 </urlset>
-<!--<guid value="d856910d-ea86-49c5-af8e-a770782362d9" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->

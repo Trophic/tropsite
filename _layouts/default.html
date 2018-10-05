@@ -16,8 +16,8 @@
 	<!-- Gtag end-->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<link rel="icon" type="image/png" href="assets/images/favicon.png" sizes="16x16" />
-	<link rel="stylesheet" href="/assets/css/styles.scss">
+	<link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="16x16" />
+	<link rel="stylesheet" href="/assets/css/styles.css">
 	<script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 	<title>{{site.title}}</title>
 	{% feed_meta %}
@@ -30,14 +30,12 @@
 	<!-- End Google Tag Manager (noscript) -->
 
 	<header>
-		{% include header.html}
+		{% include header.html %}
 	</header>
 	<section>
 		{% include navigation.html %}
-		{{ content }}
+		{{content}}
 	</section>
 </body>
-<footer>
-	{% include footer.html %}
-</footer>
+
 </html>
