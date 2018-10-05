@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+baseurl: trop.io
 title: Trop.io by Trophic
 email: Oh look! Use this E Mail to talk to me!
 collections:
