@@ -1,0 +1,19 @@
+---
+layout: post
+title: "stats"
+date: "2018-10-05 11:30:39 +1000"
+---
+----
+#Here are some weird stats from stuff!
+##Imgur points: 27
+##Comic total: 52
+##Git commits: 110
+##Blogs: 0
+##Comics about suicide:1
+##Blorps: 0
+##PHP code percentage: 1.3% (and falling!)
+##Branches: 2
+##Stuff googled: all the google
+##Ducks: 2
+##Self-indulgent stats pages: 1
+----
