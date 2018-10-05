@@ -18,10 +18,21 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<link rel="icon" type="image/png" href="assets/images/favicon.png" sizes="16x16" />
 	<link rel="stylesheet" href="/assets/css/styles.scss">
-	<script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-	<title>{{site.title}}</title>
-	{% feed_meta %}
-	{% seo %}
+	<script src="/assets/js/scale.fix.js"></script>
+	<title>Trop.io by Trophic</title>
+	<link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Trop.io by Trophic" />
+	<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>trop.io | Trop.io by Trophic</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="trop.io" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="its a github pages for my site http://trophic.github.io/tropsite/" />
+<meta property="og:description" content="its a github pages for my site http://trophic.github.io/tropsite/" />
+<meta property="og:site_name" content="Trop.io by Trophic" />
+<script type="application/ld+json">
+{"name":"Trop.io by Trophic","description":"its a github pages for my site http://trophic.github.io/tropsite/","@type":"WebSite","url":"/","headline":"trop.io","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
 </head>
 <body>
 
@@ -30,23 +41,46 @@
 	<!-- End Google Tag Manager (noscript) -->
 
 	<header>
-		<h1>{{site.title}}</h1>
+		<h1>Trop.io by Trophic</h1>
 		<!--I am going to change the description at some point -->
-		<p>{{site.pagedescription}}</p>
-		<p>{{site.email}}</p>
+		<p></p>
+		<p>Oh look! Use this E Mail to talk to me!</p>
 		<!-- doing this to stop bots scraping my mthing -->
 		<div><img src="https://imgur.com/cEtLhZe.png?2" /></div>
 		<!-- this next bit is just for github pages -->
 		<p class="view"><a href="https://github.com/Trophic/tropsite">Or check this site on my GitHub! <small>@Trophic/tropsite</small></a></p>
 		<!-- stats for kids -->
-		{{ site.baseurl }}{% post_url 2018-10-05-stats %}
+		/2018/10/05/stats.html
 	</header>
 	<section>
-		{% include navigation.html %}
-		{{ content }}
+		<nav>
+  
+    <a href="/" style="color: red;">
+      Home
+    </a>
+  
+    <a href="/about.html" >
+      About
+    </a>
+  
+    <a href="/blog.html" >
+      Blog
+    </a>
+  
+    <a href="/staff.html" >
+      Staff
+    </a>
+  
+    <a href="/spookstersonly.md" >
+      Secrets
+    </a>
+  
+</nav>
+
+		
 	</section>
 </body>
 <footer>
-	{{footer}}
+	
 </footer>
 </html>
