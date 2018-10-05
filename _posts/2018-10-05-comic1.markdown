@@ -1,0 +1,7 @@
+---
+layout: comic
+title: "comic1"
+categories: comic
+---
+
+commmmic!
