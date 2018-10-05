@@ -6,6 +6,7 @@ collections:
   authors:
     output: true
 
+url: "https://trop.io"
 defaults:
   - scope:
       path: ""
