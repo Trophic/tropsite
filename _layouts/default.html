@@ -30,16 +30,7 @@
 	<!-- End Google Tag Manager (noscript) -->
 
 	<header>
-		<h1>{{site.title}}</h1>
-		<!--I am going to change the description at some point -->
-		<p>{{site.pagedescription}}</p>
-		<p>{{site.email}}</p>
-		<!-- doing this to stop bots scraping my mthing -->
-		<div><img src="https://imgur.com/cEtLhZe.png?2" /></div>
-		<!-- this next bit is just for github pages -->
-		<p class="view"><a href="https://github.com/Trophic/tropsite">Or check this site on my GitHub! <small>@Trophic/tropsite</small></a></p>
-		<!-- stats for kids -->
-		{{ site.baseurl }}{% post_url 2018-10-05-stats %}
+		{% include header.html}
 	</header>
 	<section>
 		{% include navigation.html %}
@@ -47,6 +38,6 @@
 	</section>
 </body>
 <footer>
-	{% footer %}
+	{% include footer.html %}
 </footer>
 </html>
