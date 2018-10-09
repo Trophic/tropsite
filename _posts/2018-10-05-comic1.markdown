@@ -3,5 +3,6 @@ layout: comic
 title: "comic1"
 categories: comic
 ---
+######Now weeeeee are getting close! Comics!  <!-- #51 -->
 
-commmmic!
+[![](https://i.imgur.com/xpMJZoa.jpg "source: imgur.com")](https://i.imgur.com/xpMJZoa.jpg)

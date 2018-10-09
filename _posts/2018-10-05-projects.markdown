@@ -3,4 +3,6 @@ layout: post
 title: "projects"
 date: "2018-10-05 12:04:35 +1000"
 ---
-### projects go here!
+### project titles go here!
+##project stuff
+#projects!
