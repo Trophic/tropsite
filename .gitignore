@@ -2,3 +2,5 @@
 https:
 .DS_Store
 .sass-cache
+CNAME
+gemfile.lock

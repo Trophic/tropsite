@@ -2,13 +2,3 @@ theme: jekyll-theme-minimal
 title: Trop.io
 email: Oh look! Use this E Mail to talk to me!
 url: "https://trop.io"
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"

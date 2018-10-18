@@ -1,7 +1,8 @@
 ---
-layout: comic
+layout: comic.html
 title: "comic1"
 categories: comic
+tag: comic
 ---
 Now weeeeee are getting close! Comics!  <!-- #51 -->
 
