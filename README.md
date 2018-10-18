@@ -9,16 +9,19 @@
 ------
 ###### Also, comics. Check em out.
 ------
+###### Oh, I'm much better at UX than self-learning code. This is more for fun right now!
+------
 ### Stats!
 - Imgur points: 27
-- Comic total: 52
-- Git commits: 110
+- Comic total: 0
+- Git commits: a lot
 - Blogs: 0
-- Comics about suicide:1
 - Blorps: 0
-- PHP code percentage: 1.3% (and falling!)
-- Branches: 2
-- Stuff googled: all the google
-- Ducks: 2
+- PHP code percentage: 0%!!!
+- Branches total: 3
+- Stuff googled: all the google and a bit more
+- Ducks: 5
 - Self-indulgent stats pages: 1
+- Times updated self-indulgent stats page manually: 5
+- Swears: ERORROR RRORO ERROROR TOO ROERO MANY EROORROOR SWEARS RRORERROR
 ------
