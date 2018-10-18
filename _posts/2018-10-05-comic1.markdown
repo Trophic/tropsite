@@ -1,5 +1,5 @@
 ---
-layout: comic.html
+layout: post
 title: "comic1"
 categories: comic
 tag: comic
