@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "projects"
+title: "project example 1"
+tag: projects
 date: "2018-10-05 12:04:35 +1000"
 ---
 ### project titles go here!

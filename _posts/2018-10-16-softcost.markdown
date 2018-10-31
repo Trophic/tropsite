@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Blog1"
+title: "example Blog1"
+tag: blog
 date: "2018-10-16 12:04:35 +1000"
 ---
 

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "comic1"
-categories: comic
 tag: comic
 ---
 Now weeeeee are getting close! Comics!  <!-- #51 -->
