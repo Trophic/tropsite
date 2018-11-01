@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "example Blog1"
+title: "Blog1"
 tag: blog
-date: "2018-10-16 12:04:35 +1000"
+date: 2018-10-16
 ---
 
 This blog was originally written by me in the far off year of 2014. I’ve taken the liberty, as the original author, of updating my writing style to be less problematic as it is now the year 2018 and society has thankfully started to change. Oh, and so have I!

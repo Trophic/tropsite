@@ -25,3 +25,8 @@
 - Times updated self-indulgent stats page manually: 5
 - Swears: ERORROR RRORO ERROROR TOO ROERO MANY EROORROOR SWEARS RRORERROR
 ------
+TODO
+- build internal comment system
+- add all Comics
+- add all Blogs
+- 

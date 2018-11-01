@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Comics
-tag: comic
+title: Blogs
+tag: blog
 ---
 <h1>{{ page.title }}</h1>
 
 <div>
 	<!-- the stuff to be done followed by an increase in the 'counter' variable
 	https://stackoverflow.com/questions/39551301/how-to-do-a-while-loop-in-liquid-jekyll -->
-{% for counter in (0..5) %}
+{% for counter in (6..11) %}
 	{% for post in site.tags[page.tag] %}
   	<div>
 		<p>{{ page.date }}</p>

@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "project example 1"
-tag: projects
-date: "2018-10-05 12:04:35 +1000"
+tag: project
+date: 2018-10-05
 ---
 ### project titles go here!
 ##project stuff
