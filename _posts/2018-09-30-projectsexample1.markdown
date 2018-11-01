@@ -1,7 +1,8 @@
 ---
-title: "project example 1"
+layout: post
+title: "project example page"
 tag: project
-date: 2018-10-05
+date: 2018-09-30
 ---
 ### project titles go here!
 ##project stuff

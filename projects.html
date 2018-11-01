@@ -6,17 +6,17 @@ tag: project
 <h1>{{ page.title }}</h1>
 
 <div>
-	<!-- the stuff to be done followed by an increase in the 'counter' variable
-	https://stackoverflow.com/questions/39551301/how-to-do-a-while-loop-in-liquid-jekyll -->
-{% for counter in (0..3) %}
 	{% for post in site.tags[page.tag] %}
   	<div>
-		<p>{{ page.date }}</p>
-		<a href="{{ post.url }}">{{ post.title }}</a>
+			<a href="{{ post.url }}">{{ post.title }}</a>
   	</div>
 		<div>{{ post.excerpt }}</div>
-		<!-- {{ counter }} -->
+		{% if post.excerpt %}
+			<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+		{% endif %}
+			{% if forloop.rindex <= 5 %}
+				{% break %}
+  		{% endif %}
 	{% endfor %}
-{% endfor %}
 </div>
 <!-- check out this blog for deets: christianspecht.de/2014/10/25/separate-pages-per-tag-category-with-jekyll-without-plugins/ -->

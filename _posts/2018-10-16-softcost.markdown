@@ -1,9 +1,9 @@
 ---
-title: "Blog1"
+layout: post
+title: "Has anyone ever actually paid for winrar?"
 tag: blog
 date: 2018-10-16
 ---
-
 This blog was originally written by me in the far off year of 2014. I’ve taken the liberty, as the original author, of updating my writing style to be less problematic as it is now the year 2018 and society has thankfully started to change. Oh, and so have I!
 
 Look for the [edit] tags and use your imagination, if you dare!
