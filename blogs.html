@@ -14,7 +14,7 @@ tag: blog
 		{% if post.excerpt %}
 			<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
 		{% endif %}
-			{% if forloop.rindex <= 5 %}
+			{% if forloop.rindex <= 1 %}
 				{% break %}
   		{% endif %}
 	{% endfor %}
