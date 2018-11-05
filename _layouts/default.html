@@ -1,13 +1,11 @@
 <!doctype html>
 <html lang="en-US">
-<!-- Hey, hi! can i have money in exchange for labor plez? -->
 <head>
 	{% include googletracking.html %}
 	<meta charset="utf-8">
 	<!-- charset declaration is important if you use a language other than english but also helps searchability-->
 	<!-- test 2 = do not goof around with the viewport stuff -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<!-- but why? -->
 	<link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="16x16" />
 	<!-- discover why I have two stylesheets -->
 	<link rel="stylesheet" href="/assets/css/styles.css">
@@ -15,7 +13,6 @@
 	<!-- attempt to understand this -->
 	<script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 	<!-- but why? -->
-	<!-- this is set in config.yml????? -->
 	<title>{{site.title}}</title>
 	<!-- """discover""" what %seo% is all about -->
 	<!-- its a jekyll thing is my first guess -->
@@ -23,21 +20,17 @@
 	{% seo %}
 </head>
 <body>
-	<!-- but why? -->
 	{% include gtag.html %}
 	<header>
-		<h1>{{site.title}}</h1>
-		<div><img src="https://imgur.com/cEtLhZe.png?2"/></div>
-		<p class="view">Welcome! Have a look around!</p>
-		<p class="view"><a href="https://github.com/Trophic/tropsite">Check this site on GitHub!<small>@Trophic/tropsite</small></a></p>
+		{% include header.html %}
 	</header>
 	<section>
-		<!-- but why? -->
 		{% include navigation.html %}
-		<!-- but why? -->
 		<div>
 		{{content}}
-	</div>
+		</div>
 	</section>
 </body>
+<footer>
+</footer>
 </html>

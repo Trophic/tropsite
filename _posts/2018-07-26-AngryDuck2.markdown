@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Angry Duck #19"
+tag: comic
+date: 2018-10-06
+---
+
+Now weeeeee are getting close! Comics!  <!-- #51 -->
+[![](https://i.imgur.com/xpMJZoa.jpg "source: imgur.com")](https://i.imgur.com/xpMJZoa.jpg)
