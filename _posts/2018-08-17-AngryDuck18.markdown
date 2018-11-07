@@ -2,7 +2,7 @@
 layout: post
 title: "Angry duck #18"
 tag: comic
-date: 2018-10-05
+date: 2018-08-17
 ---
 
 Swearsies! Oops! Comic! <!-- #50 -->

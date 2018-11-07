@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Angry Duck #19"
+title: "Angry Duck Mental Health INTERLUDE"
 tag: comic
-date: 2018-10-06
+date: 2018-08-07
 ---
 
-Now weeeeee are getting close! Comics!  <!-- #51 -->
-[![](https://i.imgur.com/xpMJZoa.jpg "source: imgur.com")](https://i.imgur.com/xpMJZoa.jpg)
+I'll be tagging comics with appropriate trigger warnings going forward! Yeah!  <!-- #43 -->
+[![](https://i.imgur.com/E2yD2YG.jpg "source: imgur.com")](https://i.imgur.com/E2yD2YG.jpg)

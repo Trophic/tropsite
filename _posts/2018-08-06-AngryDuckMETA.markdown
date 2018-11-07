@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Angry Duck #19"
+title: "Angry Duck #META"
 tag: comic
-date: 2018-10-06
+date: 2018-08-06
 ---
 
-Now weeeeee are getting close! Comics!  <!-- #51 -->
-[![](https://i.imgur.com/xpMJZoa.jpg "source: imgur.com")](https://i.imgur.com/xpMJZoa.jpg)
+A meta comic! <!-- #41 -->
+[![](https://i.imgur.com/6Asonrx.jpg "source: imgur.com")](https://i.imgur.com/6Asonrx.jpg)

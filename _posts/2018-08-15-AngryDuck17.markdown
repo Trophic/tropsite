@@ -2,7 +2,7 @@
 layout: post
 title: "Angry Duck #17"
 tag: comic
-date: 2018-10-04
+date: 2018-08-15
 ---
 
 Hospital! Yeah! Comic!  <!-- #49 -->

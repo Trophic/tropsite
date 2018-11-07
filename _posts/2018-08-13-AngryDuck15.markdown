@@ -2,7 +2,7 @@
 layout: post
 title: "Angry Duck #15"
 tag: comic
-date: 2018-10-02
+date: 2018-08-13
 ---
 
 Wait, wait, wait, a comic? <!-- #47 -->

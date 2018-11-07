@@ -2,7 +2,7 @@
 layout: post
 title: "Angry Duck #16"
 tag: comic
-date: 2018-10-03
+date: 2018-08-13
 ---
 
 What I would do for a hotdog? Comic? <!-- #48 -->
