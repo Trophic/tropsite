@@ -9,4 +9,9 @@ layout: default
 <div>
 {{ content }}
 </div>
+<small>
+    {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</small>
 <!-- but why? -->

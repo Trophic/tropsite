@@ -4,20 +4,15 @@ title: "Has anyone ever actually paid for winrar?"
 tag: blog
 date: 2018-10-16
 ---
-#### This blog was originally written by me in the far off year of 2014. I've taken the liberty, as the original author, of updating my writing style to be less problematic as it is now the year 2018 and society has thankfully started to change. Oh, and so have I!
-
-##### Look for the **_[edit]_** tags and use your imagination, if you dare!
-----
-
-#### **Has anyone ever actually paid for winrar?**
-
 ### Seriously, have you or anyone you know ever actually paid for winrar?
-
+<!-- more -->
+##### Look for the **_[2018 edit]_** tags and use your imagination, if you dare!
+<!-- more -->
 #### **On that note, have you ever paid for any software?**
-
+<!-- more -->
 #### Personally, I've tried giving as little to software publishers wherever possible.
 #### It's like I've been trying to prove some weird **"it's not physical therefore why does it cost money?"** point which ( looking back on this, in the state of mind as somebody who hopes to make a living off of paid software ) _[edit: Ha! Jokes on you 2014 me!]_ is a bad idea.
-
+<!-- more -->
 #### **Just like the above run-on sentence, this is worth dissecting and also revealing of how technology betters our lives for 'free'.**
 
 #### That's not to say I don't feel a tinge of guilt about denying people of money ( I'm a frugal person ). _[edit: welcome to my 'free-hosted' website v2]_
@@ -83,3 +78,7 @@ date: 2018-10-16
 ### That's lazy thinking though. As long as the world has problems and there are bright inquisitive minds left to solve them, there will always exist a flourishing community of **ASD's** and their equally 'flourishing' users, wikis and interesting firefox meets chrome anthropomorphic content. _[edit:the original blog provided a link to a picture here but, uh, we're not quite there as a society yet - you're welcome 2018]_
 
 ### **More importantly as creative-commons projects grow to support the ever rising tide of young coders, I can't help but think that humanity only stands to benefit from a more bohemian development community. As long as the software doesn't cost money.**
+
+----
+#### This blog was originally written by me in the far off year of 2014. I've taken the liberty, as the original author, of updating my writing style to be less problematic as it is now the year 2018 and society has thankfully started to change. Oh, and so have I!
+----
