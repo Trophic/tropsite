@@ -1,0 +1,14 @@
+---
+layout: default
+title: Tags
+---
+<div>
+<h1>#{{ page.title }}</h1>
+
+{% for tag in site.tags %}
+		<a href="/tags/{{ tag[0] }}/"
+    style="font-size: {{ tag[1] | size | times: 1 | plus: 20 }}px">
+         #{{ tag[0] }}
+    </a>
+{% endfor %}
+</div>

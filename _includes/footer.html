@@ -2,7 +2,7 @@
 	<div>
 		<h4>
 		{% for item in site.data.footernav %}
-			<a href=" {{ item.link }} " {% if page.url == item.link %}style="color: black;"{% endif %}>	_ {{ item.name }}</a>
+			<a href=" {{ item.link }} " {% if page.url == item.link %}style="color: transparent;"{% endif %}>	_ {{ item.name }}</a>
 		{% endfor %}
 		</h4>
 	</div>

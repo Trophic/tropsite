@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "project example page"
+title: "project blogs coming soon"
 tag: projects
 date: 2017-01-01
 ---
-### project titles go here!
-## project stuff
-# projects!
-#### ooo projects
+
+#### ooo projects!
+### COMING SOON!

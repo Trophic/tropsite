@@ -4,6 +4,7 @@ title: "Has anyone ever actually paid for winrar?"
 tag: [blogs, devlyf]
 date: 2018-10-16
 ---
+
 ### Seriously, have you or anyone you know ever actually paid for winrar?
 
 ##### Look for the **_[2018 edit]_** tags and use your imagination, if you dare!
@@ -11,56 +12,56 @@ date: 2018-10-16
 #### **On that note, have you ever paid for any software?**
 
 #### Personally, I've tried giving as little to software publishers wherever possible.
-#### It's like I've been trying to prove some weird **"it's not physical therefore why does it cost money?"** point which ( looking back on this, in the state of mind as somebody who hopes to make a living off of paid software ) _[edit: Ha! Jokes on you 2014 me!]_ is a bad idea.
+#### It's like I've been trying to prove some weird **"it's not physical therefore why does it cost money?"** point which ( looking back on this, in the state of mind as somebody who hopes to make a living off of paid software ) **_[edit: Ha! Jokes on You, 2014 Me!]_** is a bad idea.
 
 #### **Just like the above run-on sentence, this is worth dissecting and also revealing of how technology betters our lives for 'free'.**
 <!-- more -->
-#### That's not to say I don't feel a tinge of guilt about denying people of money ( I'm a frugal person ). _[edit: welcome to my 'free-hosted' website v2]_
-#### And I don't mean to imply that these **Anonymous Software Developers** don't deserve the money ( though **Anonymous Software Developer** doesn't quite have the same ring as 'starving programmer' ). _[edit]_
+#### That's not to say I don't feel a tinge of guilt about denying people of money ( I'm a frugal person ). **_[edit: welcome to my 'free-hosted' website v2]_**
+#### And I don't mean to imply that these **Anonymous Software Developers** don't deserve the money ( though **Anonymous Software Developer** doesn't quite have the same ring as 'starving programmer' ). **_[edit]_**
 
 #### The **Anonymous Software Developer** ( **ASD** ) is the reason realplayer doesn't exist and is the only reason I have a flashlight app on my phone. The **ASD**'s of the world are responsible for Winrar, Ventrilo, ".Avi to .Mpeg" converters, Audacity, Firefox, Utorrent, Openoffice, Lastpass, Reddit-enhancement-suite ( hallowed be thine name ) and many other wonderful programs and apps that I take for granted.
 
-#### _[editors note: again, 2014 was a year whence some of those things were still 'openish-source']_
+#### **_[editors note: again, 2014 was a year whence some of those things were still 'openish-source']_**
 
-#### But that's all OK. I sleep fine at night in the knowledge that my NFC alarm clock app will wake me up._[edit: 2014.]_
+#### But that's all OK. I sleep fine at night in the knowledge that my NFC alarm clock app will wake me up.**_[edit: 2014.]_**
 
-#### I rest easy knowing that my Dogecoin price tracker will keep tracking $Doge with or without my donation._[edit: 2014! to the moon!]_
+#### I rest easy knowing that my Dogecoin price tracker will keep tracking $Doge with or without my donation.**_[edit: 2014! to the moon!]_**
 
-#### I am assured in the knowledge that openssl won't break and reveal my passwords to anyone who asks. Well, maybe not the last one, but the rest of it makes for a pretty awesome and efficient technological experience. _[edit: 2014! Ha!]_
+#### I am assured in the knowledge that openssl won't break and reveal my passwords to anyone who asks. Well, maybe not the last one, but the rest of it makes for a pretty awesome and efficient technological experience. **_[edit: 2014! Ha!]_**
 
 #### That is, until one of theses apps break on android and I ( yes I, the privileged end-user ) have to wait for the update and go crying to reddit and various forums about how lazy the **ASD** is.
 
 #### Getting back to the original point:
 ### **Why does software cost money?**
 
-#### You may have heard of some of the programs I mentioned. They all _[edit: used to]_ exist under some sort of creative-commons license and are, for the most part, totally free. There exist alternatives to these programs ( which have ongoing updates along with end-user support teams and industry standard formatting yada yada yada ).
+#### You may have heard of some of the programs I mentioned. They all **_[edit: used to]_** exist under some sort of creative-commons license and are, for the most part, totally free. There exist alternatives to these programs ( which have ongoing updates along with end-user support teams and industry standard formatting yada yada yada ).
 
-#### The '_**Adobe**_ creative suites' _[edit: I'm kinda still unpacking this insult in 2018]_ of the world don't try to compete with their free alternatives 'crazy low prices'. **_**Adobe**_** are comfortable charging customers for the service they provide beyond there software ( despite a pinch of google-fu revealing a myriad of free web based solutions ).
-#### They don't feel threatened by Jillicent Blogs _[edit: ew, gendered names]_ and their wonderful homemade vector sprite. That's not _**Adobe**_'s target audience and they know, that when Jill wants to get serious, Jill will shill out those simoleons for _**Adobe**_'s "superior" product.
+#### The '_**Adobe creative suites**_' **_[edit: I'm kinda still unpacking this insult in 2018]_** of the world don't try to compete with their free alternatives 'crazy low prices'. _**Adobe**_ are comfortable charging customers for the service they provide beyond there software ( despite a pinch of google-fu revealing a myriad of free web based solutions ).
+#### They don't feel threatened by Jillicent Blogs **_[edit: ew, gendered names]_** and their wonderful homemade vector sprite. That's not _**Adobe**_'s target audience and they know, that when Jill wants to get serious, Jill will shill out those simoleons for _**Adobe**_'s "superior" product.
 
 ### **--INTERJECTION**--
 
 #### ```In a misty hollow on the banks of a magical glowing river there lived a vector sprite by the name of Bilbo.png. Bilbo.png had traveled the halls of many a mighty design and battled with hordes of evil codecs all led by the nefarious count unsavedimage.jpeg. There once was a time when the dark pixel wars seemed never-ending, but now, they were no more then corrupted .bmp files stored on the floppy disk of Bilbo.png's memory.......```
 
-#### Nothing wrong with this ( aside from the whole 'being-locked-into- _**Adobe's** -proprietary-formats' thing ) as Jillicent will learn that wasting their time on a slow web-app is sometimes not worth the frugality.
+#### Nothing wrong with this ( aside from the whole 'being-locked-into- _**Adobe's**_ -proprietary-formats' thing ) as Jillicent will learn that wasting their time on a slow web-app is sometimes not worth the frugality.
 
 ### **--INTERJECTION**--
 
 #### ``` Take a pair of boots, for example. The worker earned thirty-eight dollars a month plus allowances. A really good pair of leather boots cost fifty dollars. But an affordable pair of boots, which were sort of OK for a season or two and then leaked like hell when the cardboard gave out, cost about ten dollars.  But the thing was that good boots lasted for years and years.```
 #### ```A worker who could afford fifty dollars had a pair of boots that'd still be keeping their feet dry in ten years' time, while the poor sop who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would still have wet feet```
 
-##### ― Terry Pratchett _[edit: RIP TP, RIP 2014]_
+##### ― Terry Pratchett **_[edit: RIP TP, RIP 2014]_**
 
 #### **How does that apply to software?**
 #### While Jillicent may be able to produce a logo of decent quality, but, if they had done it in photoshop,  they would also have learned how to use an industry standard image production program.
 
-### So, **Why is _**Adobe**_ creative suite an industry standard?**
+### So, **Why is Adobe creative suite an industry standard?**
 
-#### Because _**Adobe**_ provide value in their product through tech support, hiring **ASD**'s as well as tech support staff ( along with marketers and paying bloggers to plug their product. Sell-outs! ). _[edit: hire me for this! Money! #2014]_ These people all cost money ( _**Adobe**_: send my swag referral dollars as bitcoin please :D ) _[edit: I mean, this does still work]_ which comes from people paying for software.
+#### Because _**Adobe**_ provide value in their product through tech support, hiring **ASD**'s as well as tech support staff ( along with marketers and paying bloggers to plug their product. Sell-outs! ). **_[edit: hire me for this! Money! #2014]_** These people all cost money ( _**Adobe**_: send my swag referral dollars as bitcoin please :D ) **_[edit: I mean, this does still work]_** which comes from people paying for software.
 
 #### When Photoshop breaks, users grab dem pitchforks just like a  redditor 'demonstrates the effectiveness of crowd-sourced sleuthing' and go storming to the.....
-#### _[edit: Ok this stays in for how dank a ref it was.]_  _[edit: hi reddit!]_
-#### ..... _**Adobe**_ forums hosted by _**Adobe**_ and manned by a 'real' tech support person. Nobody cares that it's a  stock image manned by 500 bad DOTA2 players getting paid 15 cents an hour _[edit:Take that to the bank, Capitalism!]_  who don't particularly care about _**Adobe**_ creative suite or how a vital tool has stopped working.
+#### **_[edit: Ok this stays in for how dank a ref it was.]_**  **_[edit: hi reddit!]_**
+#### ..... _**Adobe**_ forums hosted by _**Adobe**_ and manned by a 'real' tech support person. Nobody cares that it's a  stock image manned by 500 bad DOTA2 players getting paid 15 cents an hour **_[edit:Take that to the bank, Capitalism!]_**  who don't particularly care about _**Adobe**_ creative suite or how a vital tool has stopped working.
 #### But BUT BUT THE _'blur-my-acne-but-not-so-much-that-people-think-i'm-using-photoshop'_ DOESN'T WORK OMG THEY CAN TOTALLY SEE THE PIXELS.
 ### Ahhhhhhhhhhhhh
 ## OK, breathe in, out. Serenity now.
@@ -73,9 +74,9 @@ date: 2018-10-16
 
 ### **Why is there free software at all?**
 
-### The repressed cynic inside me ( he suffers ) _[edit: oh, this hasn't changed]_ says that: **free software will exist as long as Jillicent Blogs doesn't mind walking round in soggy boots while occasionally miss-clicking the donate button.**
+### The repressed cynic inside me ( he suffers ) **_[edit: oh, this hasn't changed]_** says that: **free software will exist as long as Jillicent Blogs doesn't mind walking round in soggy boots while occasionally miss-clicking the donate button.**
 
-### That's lazy thinking though. As long as the world has problems and there are bright inquisitive minds left to solve them, there will always exist a flourishing community of **ASD's** and their equally 'flourishing' users, wikis and interesting firefox meets chrome anthropomorphic content. _[edit:the original blog provided a link to a picture here but, uh, we're not quite there as a society yet - you're welcome 2018]_
+### That's lazy thinking though. As long as the world has problems and there are bright inquisitive minds left to solve them, there will always exist a flourishing community of **ASD's** and their equally 'flourishing' users, wikis and interesting firefox meets chrome anthropomorphic content. **_[edit:the original blog provided a link to a picture here but, uh, we're not quite there as a society yet - you're welcome 2018]_**
 
 ### **More importantly as creative-commons projects grow to support the ever rising tide of young coders, I can't help but think that humanity only stands to benefit from a more bohemian development community. As long as the software doesn't cost money.**
 
