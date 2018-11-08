@@ -6,4 +6,5 @@ date: 2017-10-27
 ---
 
 This is another comic! <!-- #24 -->
-[![](https://imgur.com/wxcX09X "source: imgur.com")](https://imgur.com/wxcX09X)
+[![](https://i.imgur.com/TlZGYv3.jpg "source: imgur.com")](https://i.imgur.com/TlZGYv3.jpg)
+s
