@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Angry Duck #20"
-tag: comic
+tag: [comics, angryduck]
 date: 2018-08-21
 ---
 ### TRIGGER WARNING

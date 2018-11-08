@@ -1,8 +1,9 @@
 ---
 layout: default
 title: About
+tag: meta
 ---
-# About page
-
-This page tells you a little bit about me.
-Its static so it doesn't need the content tag
+<h1>{{ page.title }}</h1>
+<div>
+	{% include aboutme.html %}
+</div>

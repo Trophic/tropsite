@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Angry duck #18"
-tag: comic
+title: "Angry Duck #18"
+tag: [comics, angryduck]
 date: 2018-08-17
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Freelance: Week 9(Friday)"
-tag: comic
+title: "Freelance: Week 9 (Friday)"
+tag: comics
 date: 2017-10-27
 ---
 

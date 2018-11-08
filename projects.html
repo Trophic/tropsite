@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-tag: project
+tag: projects
 ---
 <h1>{{ page.title }}</h1>
 
@@ -10,11 +10,18 @@ tag: project
   	<div>
 			<h2><a href="{{ post.url }}">{{ post.title }}</a><h2>
   	</div>
-		<div>{{ post.excerpt }}</div>
-		{% if post.excerpt %}
-			<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-		{% endif %}
-			{% if forloop.rindex <= 1 %}
+		<div>
+			{{ post.excerpt }}
+			{% if post.excerpt %}
+				<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+				<p><small>
+						{% for tag in post.tags %}
+						#<a href="/tags/{{ tag }}/">{{ tag }}</a>
+						{% endfor %}
+				</small></p>
+			{% endif %}
+		</div>
+			{% if forloop.rindex == 19 %}
 				{% break %}
   		{% endif %}
 	{% endfor %}

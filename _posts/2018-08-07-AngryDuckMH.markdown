@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Angry Duck Mental Health Interlude"
-tag: comic
+tag: [comics, angryduck]
 date: 2018-08-07
 ---
 

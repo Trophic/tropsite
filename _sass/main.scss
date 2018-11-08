@@ -14,7 +14,16 @@ section {
 }
 
 .footer {
-  float:right;
+	position:bottom;
+	float: none;
+	background-color:#EAEFE8;
+  padding-bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+footer {
+	position:bottom;
+	float: none;
 	background-color:#EAEFE8;
   padding-bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -151,7 +160,8 @@ small {
   }
 
   .footer {
-    position:bottom;
+		position:bottom;
+		float: none;
   }
 }
 
@@ -173,7 +183,8 @@ small {
   }
 
   .footer {
-    position:bottom;
+		position:bottom;
+		float: none;
   }
 }
 
@@ -191,7 +202,8 @@ small {
   }
 
   .footer {
-    position:bottom;
+		position:bottom;
+		float: none;
   }
 }
 
@@ -202,6 +214,7 @@ small {
     color:#444;
   }
   .footer {
-    position:bottom;
+		position:bottom;
+		float: none;
   }
 }

@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Has anyone ever actually paid for winrar?"
-tag: blog
+tag: [blogs, devlyf]
 date: 2018-10-16
 ---
 ### Seriously, have you or anyone you know ever actually paid for winrar?
-<!-- more -->
+
 ##### Look for the **_[2018 edit]_** tags and use your imagination, if you dare!
-<!-- more -->
+
 #### **On that note, have you ever paid for any software?**
-<!-- more -->
+
 #### Personally, I've tried giving as little to software publishers wherever possible.
 #### It's like I've been trying to prove some weird **"it's not physical therefore why does it cost money?"** point which ( looking back on this, in the state of mind as somebody who hopes to make a living off of paid software ) _[edit: Ha! Jokes on you 2014 me!]_ is a bad idea.
-<!-- more -->
-#### **Just like the above run-on sentence, this is worth dissecting and also revealing of how technology betters our lives for 'free'.**
 
+#### **Just like the above run-on sentence, this is worth dissecting and also revealing of how technology betters our lives for 'free'.**
+<!-- more -->
 #### That's not to say I don't feel a tinge of guilt about denying people of money ( I'm a frugal person ). _[edit: welcome to my 'free-hosted' website v2]_
 #### And I don't mean to imply that these **Anonymous Software Developers** don't deserve the money ( though **Anonymous Software Developer** doesn't quite have the same ring as 'starving programmer' ). _[edit]_
 
