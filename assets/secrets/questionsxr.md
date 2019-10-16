@@ -1,334 +1,149 @@
-<html>
-<p>
-<strong>STYLE GUIDE</strong>
-</p>
-<ol>
+**STYLE GUIDE**
 
-<li>ACTUAL QUESTION (# = REQUIRED BY LEGAL) (% = REQUIRED FOR FOLLOW UP)
-<ol>
 
-<li>POSSIBLE ANSWER
-<ol>
 
-<li>GUIDANCE AND EXTENDING QUESTIONS
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<p>
+1. ACTUAL QUESTION (# = REQUIRED BY LEGAL) (% = REQUIRED FOR FOLLOW UP)
+    1. POSSIBLE ANSWER
+        1. GUIDANCE AND EXTENDING QUESTIONS
+
 ---- HORIZONTAL LINE TO GROUP QUESTION TYPES ----
-</p>
-<p>
 
-<hr>
-</p>
-<p>
-<strong>REBEL’S PERSONAL INFORMATION</strong>
-</p>
-<ol>
 
-<li>Name #%
-<ol>
 
-<li>first, last, preferred pronoun
-<ol>
+---
 
-<li>Can be as simple as an initial or a username
-</li>
-</ol>
 
-<li>Potentially extra information like their local group or working group. Not required, but helpful.
-</li>
-</ol>
+**REBEL’S PERSONAL INFORMATION**
 
-<li>Preferred contact method #%
-<ol>
 
-<li>Email, Signal, phone number, Mattermost, post, interpretive service (eg for sign language, social worker, an esl interpreter etc.)
-</li>
-</ol>
 
-<li>Did you speak with Arrestee Support already? #
-<ol>
+2. Name #%
+    - first, last, preferred pronoun
+        - Can be as simple as an initial or a username
+    - Potentially extra information like their local group or working group. Not required, but helpful.
+3. Preferred contact method #%
+    - Email, Signal, phone number, Mattermost, post, interpretive service (eg for sign language, social worker, an esl interpreter etc.)
+4. Did you speak with Arrestee Support already? #
+    - Yes/no/maybe
+        - Who?
+        - Did this include filling out an arrestee support form?
+- How privacy conscious are you? #
+    - 1-2-3-4-5
+        - 1 = door unlocked, no password on phone
+        - 3 = normal level, don’t actively try to inconvenience yourself, happy for details to be shared with legal, regen and the working group
+        - 5 = no phone, different pair keys for each conversation, I’ll call you
+- Your data will be held by a small and transparent group of XR rebels in the legal, arrestee support, and User Experience Working Groups. Would you also be OK if we pass your details on to the following who may contact you to offer support: #%
+    - REGEN = 0466463206 (Cullen)
+        - For well-being support
+    - LEGAL = 04319757770 (Agatha)
+        - For legal support
+    - OTHER WORKING GROUPS (eg Media)
+        - For further inquiries/projects - we will check with you before we do this
 
-<li>Yes/no/maybe
-<ol>
+---
 
-<li>Who?
 
-<li>Did this include filling out an arrestee support form?
-</li>
-</ol>
-</li>
-</ol>
+**CHECK-IN**
 
-<li>How privacy conscious are you? #
-<ol>
 
-<li>1-2-3-4-5
-<ol>
 
-<li>1 = door unlocked, no password on phone
+7. Are you ok to continue this conversation now? Check-in re how much time they have, how much information they are willing to share, how they are feeling post-Spring Rebellion.
+    - Yes, happy to continue.
+    - No, that’s enough for now, would rather speak to: a member of the legal team in person; someone else; no-one, I’m fine; you but another time.
+        - Make a plan to catch up with them another time unless they do not wish to be involved anymore.
+        - If no, be sure to check-in gently with how they are going post-Spring-Rebellion, and if they’d like any emotional/regen support.
 
-<li>3 = normal level, don’t actively try to inconvenience yourself, happy for details to be shared with legal, regen and the working group
 
-<li>5 = no phone, different pair keys for each conversation, I’ll call you
-</li>
-</ol>
-</li>
-</ol>
 
-<li>Your data will be held by a small and transparent group of XR rebels in the legal, arrestee support, and User Experience Working Groups. Would you also be OK if we pass your details on to the following who may contact you to offer support: #%
-<ol>
+---
 
-<li>REGEN = 0466463206 (Cullen)
-<ol>
 
-<li>For well-being support
-</li>
-</ol>
-
-<li>LEGAL = 04319757770 (Agatha)
-<ol>
-
-<li>For legal support
-</li>
-</ol>
-
-<li>OTHER WORKING GROUPS (eg Media)
-<ol>
-
-<li>For further inquiries/projects - we will check with you before we do this
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<p>
-
-<hr>
-</p>
-<p>
-<strong>CHECK-IN</strong>
-</p>
-<ol>
+**REBEL’S INTERACTION WITH POLICE**
 
-<li>Are you ok to continue this conversation now? Check-in re how much time they have, how much information they are willing to share, how they are feeling post-Spring Rebellion.
-<ol>
-
-<li>Yes, happy to continue.
-
-<li>No, that’s enough for now, would rather speak to: a member of the legal team in person; someone else; no-one, I’m fine; you but another time.
-<ol>
-
-<li>Make a plan to catch up with them another time unless they do not wish to be involved anymore.
-
-<li>If no, be sure to check-in gently with how they are going post-Spring-Rebellion, and if they’d like any emotional/regen support.
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<p>
-
-<hr>
-</p>
-<p>
-<strong>REBEL’S INTERACTION WITH POLICE</strong>
-</p>
-<ol>
-
-<li>What was your interaction with the police? #
-<ol>
-
-<li>Arrested? Fined? Magistrates? An altercation? Warned?
-
-<li>No interaction but witnessed an interaction (eg arrestee support person or bystander)
-</li>
-</ol>
-
-<li>Which day did this interaction happen? #
-<ol>
-
-<li>Monday-Sunday
-<ol>
-
-<li>Can be as specific or non-specific as they’d like
-</li>
-</ol>
-</li>
-</ol>
-
-<li>Have you written down your recollection of the day you interacted with police? #
-<ol>
-
-<li>Yes/no.
-<ol>
-
-<li>We don’t need to see this record, although legal may wish to record a statement with you in future. Good to do this so that in future, if you are asked, you have a record.
-</li>
-</ol>
-</li>
-</ol>
-
-<li>What have you been charged with? #
-<ol>
-
-<li>E.g. obstructing an emergency services worker
-<ol>
-
-<li>Make sure to collect all charges if there are several.
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<p>
-
-<hr>
-</p>
-<p>
-<strong>ONGOING LEGAL, REGEN, FINANCIAL ASSISTANCE</strong>
-</p>
-<ol>
-
-<li>Are you looking for legal assistance with fines, bail conditions, charges etc.? #
-<ol>
-
-<li>Yes/no.
-<ol>
-
-<li>If yes, we will pass your details on to legal who will be in touch.
-</li>
-</ol>
-</li>
-</ol>
-
-<li>Are you interested in some further support from the regen team? %
-<ol>
-
-<li>Yes/no.
-<ol>
-
-<li>If yes, we will pass your details on to the regen team who will be in touch,
-</li>
-</ol>
-</li>
-</ol>
-
-<li>Are you interested in financial support from the XR Vic Go Fund Me for fines?
-<ol>
-
-<li>Yes/no.
-<ol>
-
-<li>We will be in touch later about how to make this happen - bank accounts etc.
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<p>
-
-<hr>
-</p>
-<p>
-<strong>FEEDBACK ON REBEL’S EXPERIENCE: SUPPORT, TRAINING, & KNOWLEDGE</strong>
-</p>
-<ol>
-
-<li>How was the short term support from arrestee support?
-<ol>
-
-<li>Immediately after interaction/release
-<ol>
-
-<li>Do you need any more immediate support?
-</li>
-</ol>
-</li>
-</ol>
-
-<li>How was the medium term support?
-<ol>
-
-<li>Once you got back to camp/home after interaction
-<ol>
-
-<li>Do you need any more immediate support?
-</li>
-</ol>
-</li>
-</ol>
-
-<li>How was the long term support?
-<ol>
-
-<li>Now and on-going
-<ol>
-
-<li>Do you need any more immediate support?
-</li>
-</ol>
-</li>
-</ol>
-
-<li>Do you feel like you were well-briefed before your interaction?
-
-<li>Did you attend NVDA training before your interaction?
-
-<li>Did you feel like you could talk to people about the possibility of having a police interaction beforehand?
-
-<li>Jaharis window!
-<ol>
-
-<li>What did you know about police interactions ahead of time that was also covered by training/talking to people?
-<ol>
-
-<li>What was well covered and maybe redundant
-</li>
-</ol>
-
-<li>What did you know about police interactions ahead of time that was not covered by training/talking to people?
-<ol>
-
-<li>What could you have contributed
-</li>
-</ol>
-
-<li>What did you not know about police interactions ahead of time that was covered by training/talking to people?
-<ol>
-
-<li>What you learnt ahead of time
-</li>
-</ol>
-
-<li>What did you not know about police interactions ahead of time that was not covered by training/talking to people?
-<ol>
-
-<li>Unexpected unknowns
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<p>
-
-<hr>
-</p>
-<p>
-<strong>ADDITIONAL COMMENTS</strong>
-</p>
-<ol>
-
-<li>Anything else you would like to talk about or mention?
-</li>
-</ol>
-</html>
+
+
+8. What was your interaction with the police? #
+    - Arrested? Fined? Magistrates? An altercation? Warned?
+    - No interaction but witnessed an interaction (eg arrestee support person or bystander)
+9. Which day did this interaction happen? #
+    - Monday-Sunday
+        - Can be as specific or non-specific as they’d like
+10. Have you written down your recollection of the day you interacted with police? #
+    - Yes/no.
+        - We don’t need to see this record, although legal may wish to record a statement with you in future. Good to do this so that in future, if you are asked, you have a record.
+11. What have you been charged with? #
+    - E.g. obstructing an emergency services worker
+        - Make sure to collect all charges if there are several.
+12. What is your understanding of your legal status now?
+    - E.g. waiting for a fine; have received a fine to pay; on bail with conditions; on bail with no conditions.
+        - Do you wish to contest this legal status?
+        - Do you wish to be contacted by legal for further discussion of and advice on this status?
+
+
+
+---
+
+
+**ONGOING LEGAL, REGEN, FINANCIAL ASSISTANCE**
+
+
+
+13. Are you looking for legal assistance with fines, bail conditions, charges etc.? #
+    - Yes/no.
+        - If yes, we will pass your details on to legal who will be in touch.
+14. Are you interested in some further support from the regen team? %
+    - Yes/no.
+        - If yes, we will pass your details on to the regen team who will be in touch.
+15. Are you interested in financial support from the XR Vic Go Fund Me for fines?
+    - Yes/no.
+        - We will be in touch later about how to make this happen - bank accounts etc.
+
+
+
+---
+
+
+**FEEDBACK ON REBEL’S EXPERIENCE: SUPPORT, TRAINING, & KNOWLEDGE**
+
+
+
+16. How was the short term support from arrestee support?
+    - Immediately after interaction/release
+        - Do you need any more immediate support?
+17. How was the medium term support?
+    - Once you got back to camp/home after interaction.
+        - Do you need any more immediate support?
+18. How was the long term support?
+    - Now and on-going
+        - Do you need any more immediate support?
+19. Do you feel like you were well-briefed before your interaction?
+    - Yes/no.
+        - What was helpful?
+        - How could it have been better?
+20. Did you attend NVDA training before your interaction?
+    - Yes/no.
+        - Was it helpful?
+        - How could it have been better?
+21. Did you feel like you could talk to people (other rebels, friends, family) about the possibility of having a police interaction beforehand?
+    - Yes/no.
+        - Why, and was this helpful?
+22. Jaharis window! Extras for experts.
+    - What did you already know about police interactions ahead of time that was also covered by training/talking to people?
+        - What was well covered and maybe redundant
+    28. What did you already know about police interactions ahead of time that was not covered by training/talking to people?
+        - What could you have contributed to the pool of information.
+    29. What did you not know about police interactions ahead of time that was covered by training/talking to people?
+        - What you learnt ahead of time
+    30. What did you not know about police interactions ahead of time that was not covered by training/talking to people?
+        - Unexpected unknowns
+
+
+
+---
+
+
+**ADDITIONAL COMMENTS**
+
+
+
+23. Anything else you would like to talk about or mention?
