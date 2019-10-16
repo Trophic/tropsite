@@ -10,18 +10,18 @@
 3.  Did you speak with Arrestee Support already?
     - Yes/no/maybe - who?
 4.  How privacy conscience are you?
-    -  1 - 5
+    -  1/5
 	    - 1 = door unlocked, no password on phone
 	    - 3 = normal level, don't actively try to inconvenience yourself, happy for details to be shared with your name to legal, regen and
     the working group
 	    - 5 = no phone, different pair keys for each conversation, I'll call you
-5.  Are you OK if we pass your details on to: Explain who the data is going to as is (being legal, arrestee support and ux working group
-		-  REGEN = 0466463206 (cullen)
-		  -  For well-being support
-		-  LEGAL = 04319757770 (agatha)
-			- For legal support
-		-  OTHER WORKING GROUPS (arts, media)
-		   -  For on-going outreach
+5.  Are you OK if we pass your details on to: Explain who the data is going to as is (being legal, arrestee support and ux working group)
+	- REGEN = 0466463206 (cullen)
+		- For well-being support
+	- LEGAL = 04319757770 (agatha)
+		- For legal support
+	- OTHER WORKING GROUPS (arts, media)
+		- For on-going outreach
 
 ----
 
