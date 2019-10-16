@@ -25,26 +25,26 @@
 
 ----
 
-5. What was your interaction with the police?
+6. What was your interaction with the police?
     -  Arrested? Fined? Magistrates? An altercation? Warned?
-6.  Which day did this interaction happen?
+7.  Which day did this interaction happen?
 		- Monday-Sunday
 			- Can be as specific or non-specific as they'd like
-7. How are you feeling post spring rebellion?
-8. Have you written down your recollection of the day you interacted with police?
-9. What have you been charged with?
-10. Are you looking for legal assistance with fines, bail conditions, charges etc.?
-11. Are you interested in some further support from the regen team?
+8. How are you feeling post spring rebellion?
+9. Have you written down your recollection of the day you interacted with police?
+10. What have you been charged with?
+11. Are you looking for legal assistance with fines, bail conditions, charges etc.?
+12. Are you interested in some further support from the regen team?
 
 ----
 
-12. How was the short term support from arrestee support?
+13. How was the short term support from arrestee support?
 		- Immediately after interaction/release
 			- Do you need any more immediate support?
-13. How was the medium term support?
+14. How was the medium term support?
 		- Once you got back to camp/home after interaction
 			- Do you need any more immediate support?
-14.  How was the long term support?
+15.  How was the long term support?
 		- Now and on-going
 		 - Do you need any more immediate support?
 16. Do you feel like you were well-briefed before your interaction?
