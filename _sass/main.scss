@@ -9,7 +9,7 @@ body {
 section {
 	float:right;
 	background-color:#EAEFE8;
-  width:550px;
+  width:750px;
   padding-bottom:50px;
 }
 
@@ -126,7 +126,7 @@ small {
   font-size:11px;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1150px) {
 
   div.wrapper {
     width:auto;
@@ -165,7 +165,7 @@ small {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 750px) {
   body {
     word-wrap:break-word;
   }
