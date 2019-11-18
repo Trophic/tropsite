@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Generally Assembly #1"
+tag: [comics, ga]
+date: 2019-11-18
+---
+<!-- #63 -->
+goop future is lyf
+[![](https://i.imgur.com/QZJIX9p.jpg"source: imgur.com")](https://i.imgur.com/QZJIX9p.jpg)
