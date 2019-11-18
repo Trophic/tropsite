@@ -5,9 +5,9 @@
 -----
 #### Have a poke around, it's not really that interesting to non-dev types though. You should probably go back to [trop.io](https://trop.io) and definitely stay away from the ***secrets*** folder.
 ------
-##### ~~If you know the answer to why I need a gemfile for a jekyll theme despite using github pages let me know plez~~ Nevermind, see "expdev branch" for this lil ole knowledge adventure. ~~update nope, I still don't have a clue~~
+##### ~~If you know the answer to why I need a gemfile for a jekyll theme despite using github pages let me know plez~~ Nevermind, see "expdev branch" for this lil ole knowledge adventure. ~~update nope, I still don't have a clue~~  ~~update update wooow its been almost 1.5 years, someone help me!!~~
 ------
-###### Also, comics. Check em out.
+###### Also, [comics](https://trop.io/tags) Check em out.
 ------
 ###### Oh, I'm much better at UX than self-learning code. This is more for fun right now!
 ------
@@ -27,6 +27,5 @@
 ------
 TODO
 - build internal comment system
-- add all Comics
-- add all Blogs
--
+- add a background thats kewl
+- 
