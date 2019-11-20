@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Generally Assembly #2"
+tag: [comics, ga]
+date: 2019-11-20
+---
+<!-- #64 -->
+wow, those cavepeople were great designers!
+[![](https://i.imgur.com/QCs05By.jpg"source: imgur.com")](https://i.imgur.com/QCs05By.jpg)
