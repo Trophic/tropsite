@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Generally Assembly #2"
+title: "Generally Assembling #2"
 tag: [comics, ga]
 date: 2019-11-20
 ---
