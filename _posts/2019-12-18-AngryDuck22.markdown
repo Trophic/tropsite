@@ -2,8 +2,8 @@
 layout: post
 title: "Angry Duck #20"
 tag: [comics, angryduck]
-date: 2018-08-21
+date: 2019-12-18
 ---
 <!-- #73 -->
 moar celebratory oofs!
-[![](https://i.imgur.com/qpelwtF.jpg "source: imgur.com")](https://i.imgur.com/qpelwtF.jpg)
+[![](https://i.imgur.com/qpelwtF.jpg"source: imgur.com")](https://i.imgur.com/qpelwtF.jpg)
