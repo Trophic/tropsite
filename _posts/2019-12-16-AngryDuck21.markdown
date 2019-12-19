@@ -1,9 +1,0 @@
----
-layout: post
-title: "Angry Duck #21"
-tag: [comics, angryduck]
-date: 2018-12-16
----
-<!-- #71 -->
-celebratory oofs!
-[![](https://i.imgur.com/lxVSO8V.jpg "source: imgur.com")](https://i.imgur.com/lxVSO8V.jpg)
