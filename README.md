@@ -12,8 +12,8 @@
 ###### Oh, I'm much better at UX than self-learning code. This is more for fun right now!
 ------
 ### Stats!
-- Imgur points: 27
-- Comic total: 60
+- Imgur points: 49
+- Comic total: 74
 - Git commits: a lot
 - Blogs: 1
 - Blorps: many
@@ -22,10 +22,10 @@
 - Stuff googled: all the google and a bit more
 - Ducks: 5
 - Self-indulgent stats pages: 1
-- Times updated self-indulgent stats page manually: 6
+- Times updated self-indulgent stats page manually: 7
 - Swears: ERORROR RRORO ERROROR TOO ROERO MANY EROORROOR SWEARS RRORERROR
 ------
 TODO
 - build internal comment system
 - add a background thats kewl
-- 
+-
