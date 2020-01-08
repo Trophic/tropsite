@@ -6,4 +6,7 @@ date: 2018-08-21
 ---
 ### CONTENT WARNING
 yeah...comic.  <!-- #52 -->
-[![](https://imgur.com/sO4g5wb.jpg "source: imgur.com")](https://imgur.com/sO4g5wb.jpg)
+
+<CLICK><!-- see The checkbox hack! in stylesheet -->
+	<input type='checkbox' name='blurrer' value='valuable' checked id="blurrer"/><label for="blurrer" ><img src="https://imgur.com/sO4g5wb.jpg"/></label>
+	<input id="blurrer" type="checkbox">
