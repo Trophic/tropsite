@@ -4,7 +4,7 @@ title: "Angry Duck #20"
 tag: [comics, angryduck]
 date: 2018-08-21
 ---
-### CONTENT WARNING
+### CONTENT WARNING. CLICK TO REVEAL
 yeah...comic.  <!-- #52 -->
 
 <CLICK><!-- see The checkbox hack! in stylesheet -->
