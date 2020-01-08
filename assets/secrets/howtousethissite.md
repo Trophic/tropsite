@@ -10,3 +10,6 @@ or
 -----
 ###### lets learn together!
 -----
+### nsfw blurrer format:
+< > escape tags
+# insert code here
