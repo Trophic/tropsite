@@ -2,9 +2,9 @@
   link: /
 - name: Comics
   link: /comics.html
-- name: Blogs
-  link: /blogs.html
 - name: Projects
   link: /projects.html
-- name: Project-blogs
+- name: Blogs
+  link: /blogs.html
+- name: Projblogs
   link: /projblogs.html
