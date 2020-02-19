@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Angry Duck #1"
-tag: [comics, angryduck]
+tags: [comics, angryduck]
 date: 2017-10-20
 ---
-
-Angry Duck #1! I can't really do a comic about freelancing and work if all I've been doing is drawing ducks. <!-- #23 , Angry Duck #1 -->
+<!-- #23 -->
 [![](https://i.imgur.com/uhbzabW.jpg "source: imgur.com")](https://i.imgur.com/uhbzabW.jpg)
+Angry Duck #1! I can't really do a comic about freelancing and work if all I've been doing is drawing ducks. 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Favourite things about climate change #7"
-tag: [comics, ftacc]
+tags: [comics, ftacc]
 date: 2019-11-11
 ---
 <!-- #60 -->
-So, I made this while I was a titch drunk myself(hence the stains). No cold beer on a dead planet! https://www.theguardian.com/world/2019/aug/19/iceland-holds-funeral-for-first-glacier-lost-to-climate-change
 [![](https://i.imgur.com/9BBqE3e.jpg "source: imgur.com")](https://i.imgur.com/9BBqE3e.jpg)
+So, I made this while I was a titch drunk myself(hence the stains). No cold beer on a dead planet!

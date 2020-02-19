@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Generally Assembling #12a"
-tag: [comics, ga]
+tags: [comics, ga]
 date: 2020-01-22
 ---
 <!-- #78 -->
-There is no floor 13 at GA.
 [![](https://i.imgur.com/d6Gx5UP.jpg"source: imgur.com")](https://i.imgur.com/d6Gx5UP.jpg)
+There is no floor 13 at GA.

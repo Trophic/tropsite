@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Generally Assembling #4"
-tag: [comics, ga]
+tags: [comics, ga]
 date: 2019-12-09
 ---
 <!-- #66 -->
-It's called humble pie, not sure why the recipe calls for poop
 [![](https://i.imgur.com/1dKniuk.jpg"source: imgur.com")](https://i.imgur.com/1dKniuk.jpg)
+It's called humble pie, not sure why the recipe calls for poop

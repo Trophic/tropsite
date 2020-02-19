@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Generally Assembling #9"
-tag: [comics, ga]
+tags: [comics, ga]
 date: 2019-12-17
 ---
 <!-- #72 -->
-BFFS friends forever are the best friends forever whoa are your friends forever
 [![](https://i.imgur.com/NdVGuqh.jpg"source: imgur.com")](https://i.imgur.com/NdVGuqh.jpg)
+BFFS friends forever are the best friends forever whoa are your friends forever

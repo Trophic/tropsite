@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Favourite things about climate change #5"
-tag: [comics, ftacc]
+tags: [comics, ftacc]
 date: 2019-11-11
 ---
 <!-- #58 -->
-hot planet = more homogenous sized potatoes https://www.vice.com/en_us/article/59axg5/climate-change-might-be-the-greatest-threat-to-potato-cultivation-in-8000-years
 [![](https://i.imgur.com/S7iZpwq.jpg "source: imgur.com")](https://i.imgur.com/S7iZpwq.jpg)
+hot planet = more homogenous sized potatoes

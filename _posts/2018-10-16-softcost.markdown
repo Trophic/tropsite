@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Has anyone ever actually paid for winrar?"
-tag: [blogs, devlyf]
+tags: [blogs, devlyf]
 date: 2018-10-16
 ---
 

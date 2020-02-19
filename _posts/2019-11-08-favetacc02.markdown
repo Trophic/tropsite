@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Favourite things about climate change #2"
-tag: [comics, ftacc]
+tags: [comics, ftacc]
 date: 2019-11-09
 ---
-come on, this one is also easy! literally first result in google!
-https://www.iass-potsdam.de/en/output/dossiers/air-pollution-and-climate-change <!-- #55 -->
+<!-- #55 -->
 [![](https://i.imgur.com/KmvWV9z.jpg "source: imgur.com")](https://i.imgur.com/KmvWV9z.jpg)
+come on, this one is also easy! literally first result in google!

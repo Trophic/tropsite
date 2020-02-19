@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Angry Duck #3"
-tag: [comics, angryduck]
+tags: [comics, angryduck]
 date: 2018-07-28
 ---
-
-Squee! Self-compassion Duck!  <!-- #33 -->
+<!-- #33 -->
 [![](https://i.imgur.com/sZ044XH.jpg "source: imgur.com")](https://i.imgur.com/sZ044XH.jpg)
+Squee! Self-compassion Duck!

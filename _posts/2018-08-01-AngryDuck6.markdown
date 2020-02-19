@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Angry Duck #6"
-tag: [comics, angryduck]
+tags: [comics, angryduck]
 date: 2018-08-01
 ---
-
-*fireworks* A comic! <!-- #36 -->
+<!-- #36 -->
 [![](https://i.imgur.com/AigJRO2r.jpg "source: imgur.com")](https://i.imgur.com/AigJRO2r.jpg)
+*fireworks* A comic!

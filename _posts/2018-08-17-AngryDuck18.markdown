@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Angry Duck #18"
-tag: [comics, angryduck]
+tags: [comics, angryduck]
 date: 2018-08-17
 ---
-
-Swearsies! Oops! Comic! <!-- #50 -->
+<!-- #50 -->
 [![](https://i.imgur.com/XgA5On7.jpg "source: imgur.com")](https://i.imgur.com/XgA5On7.jpg)
+Swearsies! Oops! Comic!

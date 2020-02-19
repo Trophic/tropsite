@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Angry Duck #2"
-tag: [comics, angryduck]
+tags: [comics, angryduck]
 date: 2018-07-26
 ---
-
-Angry Duck the sequel! <!-- #32 -->
+<!-- #32 -->
 [![](https://i.imgur.com/PVsELRI.jpg "source: imgur.com")](https://i.imgur.com/PVsELRI.jpg)
+Angry Duck the sequel!

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Angry Duck #20"
-tag: [comics, angryduck]
+tags: [comics, angryduck]
 date: 2018-08-21
 ---
 ### CONTENT WARNING. CLICK TO REVEAL
-yeah...comic.  <!-- #52 -->
-
+<!-- #52 -->
 <CLICK><!-- see The checkbox hack! in stylesheet -->
 	<input type='checkbox' name='blurrer' value='valuable' checked id="blurrer"/><label for="blurrer" ><img src="https://imgur.com/sO4g5wb.jpg"/></label>
 	<input id="blurrer" type="checkbox">
+yeah...comic.

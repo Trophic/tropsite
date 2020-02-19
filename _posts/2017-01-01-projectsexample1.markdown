@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "project blogs coming soon"
-tag: projects
+tags: projects
 date: 2017-01-01
 ---
 

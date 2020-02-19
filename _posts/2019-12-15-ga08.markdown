@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Generally Assembling #8"
-tag: [comics, ga]
+tags: [comics, ga]
 date: 2019-12-15
 ---
 <!-- #70 -->
-3 lunches in oooone day. How does nobody get the reference?
 [![](https://i.imgur.com/phkW9VU.jpg"source: imgur.com")](https://i.imgur.com/phkW9VU.jpg)
+3 lunches in oooone day. How does nobody get the reference?

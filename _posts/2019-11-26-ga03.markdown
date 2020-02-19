@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Generally Assembling #3"
-tag: [comics, ga]
+tags: [comics, ga]
 date: 2019-11-26
 ---
 <!-- #65 -->
-Beware the double diamonds, they will crush you with their lazer eyes
 [![](https://i.imgur.com/siOeTSc.jpg"source: imgur.com")](https://i.imgur.com/siOeTSc.jpg)
+Beware the double diamonds, they will crush you with their lazer eyes

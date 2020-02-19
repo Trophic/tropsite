@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Generally Assembling #10"
-tag: [comics, ga]
+tags: [comics, ga]
 date: 2019-12-18
 ---
 <!-- #74 -->
-bingbingbingbing
 [![](https://i.imgur.com/wpEs1oG.jpg"source: imgur.com")](https://i.imgur.com/wpEs1oG.jpg)
+bingbingbingbing

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Angry Duck #12"
-tag: [comics, angryduck]
+tags: [comics, angryduck]
 date: 2018-08-08
 ---
-
-A sudden focus on Angry Duck! In a comic! <!-- #44 -->
+<!-- #44 -->
 [![](https://i.imgur.com/m80gBfS.jpg "source: imgur.com")](https://i.imgur.com/m80gBfS.jpg)
+A sudden focus on Angry Duck! In a comic!
