@@ -1,55 +1,90 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 body {
-  background-color: #EAEFE8;
+  background-color: #de9bb9;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #727272;
+  color: #1e1e1e;
   padding: 50px;
   font-weight: 400; }
 
 section {
   float: right;
-  background-color: #EAEFE8;
-  width: 750px;
-  padding-bottom: 50px; }
-
-.footer {
-  position: bottom;
-  float: none;
-  background-color: #EAEFE8;
+  background-color: #de9bb9;
+  width: 720px;
   padding-bottom: 50px;
-  -webkit-font-smoothing: subpixel-antialiased; }
+  margin-right: 100px; }
 
 footer {
   position: bottom;
-  float: none;
-  background-color: #EAEFE8;
+  float: left;
+  background-color: #de9bb9;
+  padding-bottom: 50px;
+  -webkit-font-smoothing: subpixel-antialiased; }
+
+.footer {
+  position: bottom;
+  float: left;
+  background-color: #de9bb9;
   padding-bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 h1 {
-  color: #222;
+  color: transparent;
+  text-shadow: 2px -2px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
   margin: 0 0 20px;
   line-height: 1.1;
-  font-size: 28px; }
+  font-size: 48px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s; }
+
+h1:hover, a:focus {
+  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
 
 p {
   padding: auto;
   margin: auto; }
 
-/* The Magic Float Center Code by Alexandre Dees */
-.comictext {
-  float: right; }
+a {
+  color: transparent;
+  text-shadow: 1px -1px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
+  text-decoration: none;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s; }
 
-.listtext {
-  float: middle; }
+a:hover, a:focus {
+  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
 
-.comic {
+a small {
+  margin-top: -0.3em;
+  font-size: 11px;
+  display: block; }
+
+code, pre {
+  color: #333;
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-size: 12px; }
+
+img {
+  max-width: 100%; }
+
+header {
   float: left;
-  border: 1px dotted;
-  line-height: 11px; }
+  width: 320px;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased; }
 
-.infocomic {
-  float: middle;
-  margin-top: 8px; }
+strong {
+  color: #222;
+  font-weight: 700; }
+
+small {
+  font-size: 12px;
+  font-weight: bold; }
 
 /* The checkbox hack! Credit to https://gist.github.com/arbales/592332 */
 input[type=checkbox] {
@@ -66,43 +101,38 @@ input[type=checkbox]:checked + label {
   width: auto;
   display: inline-block; }
 
-a {
-  color: #267CB9;
-  text-decoration: none; }
-
-a:hover, a:focus {
-  color: #069;
-  font-weight: bold; }
-
-a small {
-  color: #777;
-  margin-top: -0.3em;
-  font-size: 11px;
-  display: block; }
-
-a:hover small {
-  color: #777; }
-
-code, pre {
-  color: #333;
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  font-size: 12px; }
-
-img {
-  max-width: 100%; }
-
-header {
+/* social icons */
+.social-icons {
   float: left;
-  width: 270px;
-  position: fixed;
-  -webkit-font-smoothing: subpixel-antialiased; }
+  padding-left: 0px;
+  margin: 0; }
 
-strong {
-  color: #222;
-  font-weight: 700; }
+.social-icon {
+  color: #000000;
+  margin: 0; }
 
-small {
-  font-size: 11px; }
+.social-icons li {
+  vertical-align: top;
+  display: inline;
+  font-size: 40px;
+  margin: 0; }
+
+.social-icons a {
+  color: #000000;
+  text-decoration: none;
+  margin: 0; }
+
+.fa-instagram, .fa-linkedin, .fa-github {
+  padding: 10px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s; }
+
+.fa-instagram:hover, .fa-linkedin:hover, .fa-github:hover {
+  color: transparent;
+  text-shadow: 1px -1px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black; }
 
 @media print, screen and (max-width: 1150px) {
   div.wrapper {
@@ -119,21 +149,15 @@ small {
 
   section {
     border-width: 1px 0;
-    padding: 20px 0;
     margin: 0 0 20px; }
 
   header a small {
     display: inline; }
 
-  header ul {
-    position: absolute;
-    right: 50px;
-    top: 52px; }
-
   .footer {
     position: bottom;
-    float: none; } }
-@media print, screen and (max-width: 750px) {
+    float: left; } }
+@media print, screen and (max-width: 1150px) {
   body {
     word-wrap: break-word; }
 
@@ -148,7 +172,7 @@ small {
 
   .footer {
     position: bottom;
-    float: none; } }
+    float: left; } }
 @media print, screen and (max-width: 480px) {
   body {
     padding: 15px; }
@@ -161,7 +185,7 @@ small {
 
   .footer {
     position: bottom;
-    float: none; } }
+    float: left; } }
 @media print {
   body {
     padding: 0.4in;
@@ -170,4 +194,4 @@ small {
 
   .footer {
     position: bottom;
-    float: none; } }
+    float: left; } }
