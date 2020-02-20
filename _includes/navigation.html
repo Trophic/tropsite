@@ -1,7 +1,8 @@
 <nav>
 	<h3>
   	{% for item in site.data.navigation %}
-    	<a href=" {{ item.link }} " {% if page.url == item.link %}style="color: transparent;"{% endif %}>#{{ item.name }}</a>
+    	<a href=" {{ item.link }} " {% if page.url == item.link %}style="color: transparent;"{% endif %}>#{{ item.name }}
+			</a>
   	{% endfor %}
 	</h3>
 </nav>

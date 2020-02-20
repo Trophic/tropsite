@@ -1,22 +1,23 @@
 body {
-  background-color:#EAEFE8;
+  background-color:#de9bb9;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:#1e1e1e;
 	padding:50px;
   font-weight:400;
 }
 
 section {
 	float:right;
-	background-color:#EAEFE8;
+	background-color:#de9bb9;
   width:750px;
   padding-bottom:50px;
+	margin-right: 100px
 }
 
 .footer {
 	position:bottom;
 	float: none;
-	background-color:#EAEFE8;
+	background-color:#de9bb9;
   padding-bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -24,7 +25,7 @@ section {
 footer {
 	position:bottom;
 	float: none;
-	background-color:#EAEFE8;
+	background-color:#de9bb9;
   padding-bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -39,44 +40,6 @@ h1 {
 p {
 	padding: auto;
   margin: auto;
-}
-
-/* The Magic Float Center Code by Alexandre Dees */
-.comictext {
-  float: right;
-}
-
-.listtext {
-  float: middle;
-}
-
-.comic {
-	float:left;
-  border:1px dotted;
-  line-height: 11px;
-}
-
-.infocomic {
-  float:middle;
-	margin-top: 8px;
-}
-
-/* The checkbox hack! Credit to https://gist.github.com/arbales/592332 */
-input[type=checkbox] {
-	 display:none;
-}
-
-input[type=checkbox] + label {
-	 height: auto;
-	 width: auto;
-	 display:inline-block;
-}
-
-input[type=checkbox]:checked + label {
-	-webkit-filter:blur(11px);
-	 height: auto;
-	 width: auto;
-	 display:inline-block;
 }
 
 a {
@@ -126,6 +89,24 @@ small {
   font-size:11px;
 }
 
+/* The checkbox hack! Credit to https://gist.github.com/arbales/592332 */
+input[type=checkbox] {
+	 display:none;
+}
+
+input[type=checkbox] + label {
+	 height: auto;
+	 width: auto;
+	 display:inline-block;
+}
+
+input[type=checkbox]:checked + label {
+	-webkit-filter:blur(11px);
+	 height: auto;
+	 width: auto;
+	 display:inline-block;
+}
+
 @media print, screen and (max-width: 1150px) {
 
   div.wrapper {
@@ -165,7 +146,7 @@ small {
   }
 }
 
-@media print, screen and (max-width: 750px) {
+@media print, screen and (max-width: 950px) {
   body {
     word-wrap:break-word;
   }

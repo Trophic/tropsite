@@ -6,7 +6,8 @@
 	<!-- charset declaration is important if you use a language other than english but also helps searchability-->
 	<!-- test 2 = do not goof around with the viewport stuff -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="16x16" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<!-- discover why I have two stylesheets -->
 	<link rel="stylesheet" href="/assets/css/styles.css">
 	<!-- but why? -->
@@ -26,7 +27,6 @@
 		{% include header.html %}
 	</header>
 	<section>
-		{% include navigation.html %}
 		<div>
 		{{content}}
 		</div>
