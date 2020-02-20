@@ -1,3 +1,5 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
 body {
   background-color:#de9bb9;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -9,32 +11,34 @@ body {
 section {
 	float:right;
 	background-color:#de9bb9;
-  width:750px;
+  width:720px;
   padding-bottom:50px;
 	margin-right: 100px
 }
 
-.footer {
-	position:bottom;
-	float: none;
-	background-color:#de9bb9;
-  padding-bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
 footer {
 	position:bottom;
-	float: none;
+	float: left;
 	background-color:#de9bb9;
   padding-bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.footer {
+	position:bottom;
+	float: left;
+	background-color:#de9bb9;
+  padding-bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+
 h1 {
-  color:#222;
+	color: transparent;
+	text-shadow: 2px -2px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
   margin:0 0 20px;
   line-height:1.1;
-  font-size:28px;
+  font-size:48px;
 }
 
 p {
@@ -43,24 +47,22 @@ p {
 }
 
 a {
-  color:#267CB9;
-  text-decoration:none;
+	color: transparent;
+	text-shadow: 1px -1px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
+	text-decoration: none;
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
 }
 
 a small {
-	color:#777;
 	margin-top:-0.3em;
   font-size:11px;
   display:block;
 }
 
 a:hover small {
-  color:#777;
 }
 
 code, pre {
@@ -75,7 +77,7 @@ img {
 
 header {
 	float:left;
-  width:270px;
+  width:320px;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -86,7 +88,8 @@ strong {
 }
 
 small {
-  font-size:11px;
+  font-size:12px;
+	font-weight:bold;
 }
 
 /* The checkbox hack! Credit to https://gist.github.com/arbales/592332 */
@@ -107,6 +110,65 @@ input[type=checkbox]:checked + label {
 	 display:inline-block;
 }
 
+/* social icons */
+
+.social-icons {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
+}
+.social-icon {
+    color: #000000;
+}
+ul.social-icons {
+    margin-top: 10px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 12px;
+}
+.social-icons a {
+    color: #000000;
+    text-decoration: none;
+}
+.fa-instagram {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+
+.fa-instagram:hover {
+    background-color: #FFF;
+}
+
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+.fa-linkedin:hover {
+    background-color: #FFF;
+}
+.fa-github {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+.fa-github:hover {
+    background-color: #FFF;
+}
+
+
 @media print, screen and (max-width: 1150px) {
 
   div.wrapper {
@@ -126,7 +188,6 @@ input[type=checkbox]:checked + label {
 
   section {
     border-width:1px 0;
-    padding:20px 0;
     margin:0 0 20px;
   }
 
@@ -134,19 +195,13 @@ input[type=checkbox]:checked + label {
     display:inline;
   }
 
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
-
   .footer {
 		position:bottom;
-		float: none;
+		float: left;
   }
 }
 
-@media print, screen and (max-width: 950px) {
+@media print, screen and (max-width: 1150px) {
   body {
     word-wrap:break-word;
   }
@@ -165,7 +220,7 @@ input[type=checkbox]:checked + label {
 
   .footer {
 		position:bottom;
-		float: none;
+		float: left;
   }
 }
 
@@ -184,7 +239,7 @@ input[type=checkbox]:checked + label {
 
   .footer {
 		position:bottom;
-		float: none;
+		float: left;
   }
 }
 
@@ -196,6 +251,6 @@ input[type=checkbox]:checked + label {
   }
   .footer {
 		position:bottom;
-		float: none;
+		float: left;
   }
 }

@@ -7,7 +7,7 @@ title: Tags
 
 {% for tag in site.tags %}
 		<a href="/tags/{{ tag[0] }}/"
-    style="font-size: {{ tag[1] | size | times: 1 | plus: 20 }}px">
+    style="font-size: {{ tag[1] | size | times: 2 | plus: 15 }}px">
          #{{ tag[0] }}
     </a>
 {% endfor %}
