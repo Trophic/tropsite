@@ -37,6 +37,15 @@ h1 {
   margin:0 0 20px;
   line-height:1.1;
   font-size:48px;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition: .5s;
+}
+
+h1:hover, a:focus {
+  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
 }
 
 p {
