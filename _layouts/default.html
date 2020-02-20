@@ -1,7 +1,25 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-	{% include googletracking.html %}
+	<!-- Google Tag Manager (noscript) -->
+	<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZJJ479" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+	<!-- End Google Tag Manager (noscript) -->
+	<!--this is for linkedin, groan, yes, I know (script) -->
+	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+	<!-- end groaning (script) -->
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5ZJJ479');</script>
+	<!-- End Google Tag Manager -->
+	<!-- Global Site Tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54781200-3"></script>
+	<!-- Gtag -->
+	<script>
+		window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments)};
+	gtag('js', new Date());
+	gtag('config', 'UA-54781200-3');
+	</script>
+	<!-- Gtag end-->
 	<meta charset="utf-8">
 	<!-- charset declaration is important if you use a language other than english but also helps searchability-->
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -22,15 +40,11 @@
 	<meta property='og:image' content="/assets/img/siteog.png"/>
 </head>
 <body>
-	{% include gtag.html %}
 	<header>
 		{% include header.html %}
-		{% include navigation.html %}
 	</header>
 	<section>
-		<div>
 		{{content}}
-		</div>
 			<footer>
 				{% include footer.html %}
 			</footer>

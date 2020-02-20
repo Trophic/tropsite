@@ -1,6 +1,4 @@
-- name: About
+- name: about
   link: /about.html
-- name: Tags
+- name: tags
   link: /tags.html
-- name: Work
-  link: trop.design

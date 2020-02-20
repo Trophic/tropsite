@@ -1,16 +1,7 @@
 <nav>
-	<div>
-		<h2>
+	<h2>
 		{% for item in site.data.footernav %}
-			<a href=" {{ item.link }} " {% if page.url == item.link %}style="color: transparent; text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;"{% endif %}>#{{ item.name }}</a>
+			<a href=" {{ item.link }} " {% if page.url == item.link %}style="color: transparent; text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;"{% endif %}>#{{ item.name }}</a>&nbsp;	
 		{% endfor %}
-		</h2>
-	</div>
+	</h2>
 </nav>
-<div class="social-icons">
-  <ul class="social-icons">
-      <li><a href="https://www.instagram.com/trop.io/" class="social-icon"> <i class="fa fa-instagram"></i></a></li>
-      <li><a href="https://www.linkedin.com/in/trophic/" class="social-icon"> <i class="fa fa-linkedin"></i></a></li>
-      <li><a href="https://github.com/Trophic/" class="social-icon"> <i class="fa fa-github"></i></a></li>
-  </ul>
-</div>

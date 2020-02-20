@@ -1,6 +1,8 @@
-- name: Home
+- name: home
   link: /
-- name: Comics
+- name: comics
   link: /comics.html
-- name: Blogs
+- name: blogs
   link: /blogs.html
+- name: work
+  link: trop.design

@@ -9,27 +9,26 @@ body {
 section {
 	float:right;
 	background-color:#de9bb9;
-  width:720px;
-  padding-bottom:50px;
-	margin-right: 100px
+  width:750px;
+	margin-right: 40px
 }
 
 footer {
 	position:bottom;
 	float: left;
 	background-color:#de9bb9;
-  padding-bottom:50px;
+  padding-bottom:20px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-.footer {
-	position:bottom;
-	float: left;
-	background-color:#de9bb9;
-  padding-bottom:50px;
+header {
+	float:left;
+  width:125px;
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+/* text */
 
 h1 {
 	color: transparent;
@@ -44,7 +43,24 @@ h1 {
 	transition: .5s;
 }
 
-h1:hover, a:focus {
+h1:hover, h1:focus {
+  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
+}
+
+h2 {
+	color: transparent;
+	text-shadow: 2px -2px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
+  margin:0 0 20px 0px;
+  line-height:1.1;
+  font-size:30px;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition: .5s;
+}
+
+h2:hover, h2:focus {
   text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
 }
 
@@ -70,25 +86,12 @@ a:hover, a:focus {
 
 a small {
 	margin-top:-0.3em;
-  font-size:11px;
+  font-size:18px;
   display:block;
-}
-
-code, pre {
-	color:#333;
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  font-size:12px;
 }
 
 img {
   max-width:100%;
-}
-
-header {
-	float:left;
-  width:320px;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 strong {
@@ -97,7 +100,7 @@ strong {
 }
 
 small {
-  font-size:12px;
+  font-size:18px;
 	font-weight:bold;
 }
 
@@ -119,44 +122,19 @@ input[type=checkbox]:checked + label {
 	 display:inline-block;
 }
 
-/* social icons */
-
-.social-icons {
-	float:left;
-	padding-left: 0px;
-	margin:0;
-}
-
-.social-icon {
-    color: #000000;
-		margin:0;
-}
-
-.social-icons li {
-    vertical-align: top;
-    display: inline;
-		font-size:40px;
-		margin:0;
-}
-
-.social-icons a {
-    color: #000000;
-    text-decoration: none;
-		margin:0;
-}
+/* social icons  style*/
 
 .fa-instagram, .fa-linkedin, .fa-github{
-    padding:10px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
+	color: transparent;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition: .5s;
 }
 
 .fa-instagram:hover, .fa-linkedin:hover, .fa-github:hover {
-	color: transparent;
-	text-shadow: 1px -1px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
+	text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
 }
 
 @media print, screen and (max-width: 1150px) {
@@ -178,7 +156,7 @@ input[type=checkbox]:checked + label {
 
   section {
     border-width:1px 0;
-    margin:0 0 20px;
+    margin:0 0 0px;
   }
 
   header a small {
