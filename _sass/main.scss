@@ -50,6 +50,11 @@ a {
 	color: transparent;
 	text-shadow: 1px -1px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
 	text-decoration: none;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition: .5s;
 }
 
 a:hover, a:focus {
@@ -60,9 +65,6 @@ a small {
 	margin-top:-0.3em;
   font-size:11px;
   display:block;
-}
-
-a:hover small {
 }
 
 code, pre {
@@ -113,27 +115,31 @@ input[type=checkbox]:checked + label {
 /* social icons */
 
 .social-icons {
-    width: 350px;
-    display:block;
-    margin: 0 auto;
+	float:left;
+	padding-left: 0px;
+	margin:0;
 }
+
 .social-icon {
     color: #000000;
+		margin:0;
 }
-ul.social-icons {
-    margin-top: 10px;
-}
+
 .social-icons li {
     vertical-align: top;
     display: inline;
-    height: 12px;
+		font-size:40px;
+		margin:0;
 }
+
 .social-icons a {
     color: #000000;
     text-decoration: none;
+		margin:0;
 }
-.fa-instagram {
-    padding:10px 14px;
+
+.fa-instagram, .fa-linkedin, .fa-github{
+    padding:10px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -141,33 +147,10 @@ ul.social-icons {
     transition: .5s;
 }
 
-.fa-instagram:hover {
-    background-color: #FFF;
+.fa-instagram:hover, .fa-linkedin:hover, .fa-github:hover {
+	color: transparent;
+	text-shadow: 1px -1px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
 }
-
-.fa-linkedin {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-}
-.fa-linkedin:hover {
-    background-color: #FFF;
-}
-.fa-github {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-}
-.fa-github:hover {
-    background-color: #FFF;
-}
-
 
 @media print, screen and (max-width: 1150px) {
 
