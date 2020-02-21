@@ -39,12 +39,12 @@ h1 {
   transition: .5s; }
 
 h1:hover, h1:focus {
-  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
+  text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
 
 h2 {
   color: transparent;
   text-shadow: 2px -2px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
-  margin: 0 0 20px 0px;
+  margin: 20px 0 0 0;
   line-height: 1.1;
   font-size: 30px;
   -o-transition: .5s;
@@ -54,7 +54,7 @@ h2 {
   transition: .5s; }
 
 h2:hover, h2:focus {
-  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
+  text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
 
 p {
   padding: auto;
@@ -71,7 +71,7 @@ a {
   transition: .5s; }
 
 a:hover, a:focus {
-  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
+  text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
 
 a small {
   margin-top: -0.3em;
@@ -114,7 +114,7 @@ input[type=checkbox]:checked + label {
   transition: .5s; }
 
 .fa-instagram:hover, .fa-linkedin:hover, .fa-github:hover {
-  text-shadow: 1px -1px #e3498e, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
+  text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9; }
 
 @media print, screen and (max-width: 1150px) {
   div.wrapper {
@@ -127,7 +127,7 @@ input[type=checkbox]:checked + label {
     width: auto; }
 
   header {
-    padding-right: 320px; }
+    padding-right: 200px; }
 
   section {
     border-width: 1px 0;
@@ -157,7 +157,7 @@ input[type=checkbox]:checked + label {
     float: left; } }
 @media print, screen and (max-width: 480px) {
   body {
-    padding: 15px; }
+    padding: 50px; }
 
   header ul {
     width: 99%; }
