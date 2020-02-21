@@ -1,0 +1,30 @@
+---
+layout: post
+title: favicons, the last stand
+tags: [blogs, devlyf]
+date: 2020-02-24
+---
+
+Favicon - Why you're doing it wrong - Favicon's blog
+https://realfavicongenerator.net/blog/favicon-why-youre-doing-it-wrong/
+
+How to Add a Favicon to your Site - QA @ W3C
+https://www.w3.org/2005/10/howto-favicon
+
+audreyr/favicon-cheat-sheet: Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+https://github.com/audreyr/favicon-cheat-sheet
+
+The ultimate favicon generator - Favic-o-Matic
+https://favicomatic.com/done
+
+HTML – How to add a Favicon? | 101 Computing
+https://www.101computing.net/html-how-to-add-a-favicon/
+
+Favicon & App Icon Generator
+https://www.favicon-generator.org/
+
+Your generated favicon
+https://realfavicongenerator.net/favicon_result?file_id=p1e1gsf21p17g5md01ugo1b1o14226#.Xk5Hr1IzbOQ
+
+graphics - Is an animated favicon.ico a bad idea? Are there cool uses of animated favicon.ico out there? - Webmasters Stack Exchange
+https://webmasters.stackexchange.com/questions/261/is-an-animated-favicon-ico-a-bad-idea-are-there-cool-uses-of-animated-favicon-i
