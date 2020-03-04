@@ -4,6 +4,11 @@ title: favicons, the last stand
 tags: [blogs, devlyf]
 date: 2020-02-24
 ---
+Goal of article: Set up for another article
+Questions to answer:
+What is a favicon?
+Where did it come from? (if its a fun fact)
+Link to guides to install for the 5 major cms (look up which are the 5 most popular cms)
 
 Favicon - Why you're doing it wrong - Favicon's blog
 https://realfavicongenerator.net/blog/favicon-why-youre-doing-it-wrong/
