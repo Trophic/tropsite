@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Learning Moments"
+tags: [comics, devlyf]
+date: 2020-04-30
+---
+<!-- #81 -->
+[![](https://i.imgur.com/MBoCPZD.jpg"source: imgur.com")](https://i.imgur.com/MBoCPZD.jpg)
+Recently took part in IBM's CallforCode virtual hackathon. There were a lot of little learning moments for the next hackathon. Write up on what we actually did coming soon! 
