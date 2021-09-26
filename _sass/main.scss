@@ -9,8 +9,8 @@ body {
 section {
 	float:right;
 	background-color:#de9bb9;
-  width:750px;
-	margin-right: 40px
+  width:850px;
+	margin-right: 50px
 }
 
 footer {
@@ -32,8 +32,7 @@ header {
 
 h1 {
 	color: transparent;
-	text-shadow: 2px -2px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
-  margin:0 0 20px;
+	margin:0 0 20px;
   line-height:1.1;
   font-size:48px;
 	-o-transition:.5s;
@@ -43,14 +42,9 @@ h1 {
 	transition: .5s;
 }
 
-h1:hover, h1:focus {
-  text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
-}
-
 h2 {
 	color: transparent;
-	text-shadow: 2px -2px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
-  margin:20px 0 0 0;
+	margin:20px 0 0 0;
   line-height:1.1;
   font-size:30px;
 	-o-transition:.5s;
@@ -60,10 +54,6 @@ h2 {
 	transition: .5s;
 }
 
-h2:hover, h2:focus {
-  text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
-}
-
 p {
 	padding: auto;
   margin: auto;
@@ -71,7 +61,10 @@ p {
 
 a {
 	color: transparent;
-	text-shadow: 1px -1px #e3498e, 0px 0px black, -1px -1px black, -1px 1px black, 1px -1px black;
+	text-shadow: 1px -1px #e3498e,
+	 						 0px 0px black,
+	  					 -1px -1px black,
+							 -1px 1px black;
 	text-decoration: none;
 	-o-transition:.5s;
 	-ms-transition:.5s;
@@ -81,7 +74,10 @@ a {
 }
 
 a:hover, a:focus {
-  text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
+  text-shadow: 0px -1px #de9bb9,
+	 						 0px 0px #267CB9,
+	 						 -1px -1px #267CB9,
+	 						 -1px 1px #267CB9;
 }
 
 a small {
@@ -105,6 +101,7 @@ small {
 }
 
 /* The checkbox hack! Credit to https://gist.github.com/arbales/592332 */
+
 input[type=checkbox] {
 	 display:none;
 }
@@ -122,22 +119,21 @@ input[type=checkbox]:checked + label {
 	 display:inline-block;
 }
 
-/* social icons  style*/
+/* social icons style */
 
 .fa-instagram, .fa-linkedin, .fa-github{
 	color: transparent;
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition: .5s;
 }
 
-.fa-instagram:hover, .fa-linkedin:hover, .fa-github:hover {
-	text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;
+/* tags style */
+
+.tags {
+	text-shadow: 1px -1px #e3498e,
+							 0px -1px black,
+							 0px 0px black;
 }
 
-@media print, screen and (max-width: 1150px) {
+@media print, screen and (max-width: 1200px) {
 
   div.wrapper {
     width:auto;
@@ -150,8 +146,8 @@ input[type=checkbox]:checked + label {
     width:auto;
   }
 
-  header {
-    padding-right:200px;
+	header {
+    padding:0;
   }
 
   section {
@@ -161,29 +157,6 @@ input[type=checkbox]:checked + label {
 
   header a small {
     display:inline;
-  }
-
-  .footer {
-		position:bottom;
-		float: left;
-  }
-}
-
-@media print, screen and (max-width: 1150px) {
-  body {
-    word-wrap:break-word;
-  }
-
-  header {
-    padding:0;
-  }
-
-  header ul, header p.view {
-    position:static;
-  }
-
-  pre, code {
-    word-wrap:normal;
   }
 
   .footer {

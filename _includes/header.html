@@ -1,13 +1,13 @@
 <h1>
 	<a href="/">{{site.title}}</a>
-	<a style="font-size: 38px;" href="https://www.instagram.com/trop.io/" class="social-icon"> <i class="fa fa-instagram"></i></a>
-	<a style="font-size: 38px;"href="https://www.github.com/Trophic/tropsite/" class="social-icon"> <i class="fa fa-github"></i></a>
-	<a style="font-size: 38px;"href="https://www.linkedin.com/in/trophic/" class="social-icon"> <i class="fa fa-linkedin"></i></a>
+	<a style="font-size: 38px;"href="https://www.instagram.com/trop.io/"> <i class="fa fa-instagram"></i></a>
+	<a style="font-size: 38px;"href="https://www.github.com/Trophic/tropsite/"> <i class="fa fa-github"></i></a>
+	<a style="font-size: 38px;"href="https://www.linkedin.com/in/trophic/"> <i class="fa fa-linkedin"></i></a>
 </h1>
 <h2>
 	<nav>
   	{% for item in site.data.navigation %}
-			<a href=" {{ item.link }} " {% if page.url == item.link %}style="color: transparent; text-shadow: 1px -1px #de9bb9, 0px 0px #267CB9, -1px -1px #267CB9, -1px 1px #267CB9, 1px -1px #267CB9;"{% endif %}>#{{ item.name }}&nbsp;</a>
+			<a href=" {{ item.link }} " {% if page.url == item.link %}{% endif %}>#{{ item.name }}&nbsp;</a>
   	{% endfor %}
 	</nav>
 </h2>

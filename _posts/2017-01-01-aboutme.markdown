@@ -1,8 +1,0 @@
----
-layout: post
-title: "about"
-tags: about
-date: 2017-01-01
----
-### I'm shy and don't like talking about myself.
-### Why not check out my instagram, github or linkedin below?

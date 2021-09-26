@@ -9,7 +9,7 @@ tag: comics
     <p>{{ post.excerpt }}</p>
 		<p><small>
 			{% for tag in post.tags %}
-				<a href="/tags/{{ tag }}/">#{{ tag }}</a>
+				<a href="/tags/{{ tag }}/" class="tags">#{{ tag }}</a>
 			{% endfor %}
 		</small></p>
   {% endfor %}
