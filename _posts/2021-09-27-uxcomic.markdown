@@ -1,0 +1,9 @@
+---
+layout: post
+title: "The double diamond"
+tags: [comics, devlyf]
+date: 2021-09-27
+---
+<!-- #98 -->
+[![](https://i.imgur.com/1CnL0WV.jpeg"source: imgur.com")](https://i.imgur.com/1CnL0WV.jpeg)
+It's a kwality design framework.
