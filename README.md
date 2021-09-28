@@ -1,6 +1,4 @@
-------
 # Hi!
-----
 ### Welcome to the git repo of [trop.io](https://trop.io) ***aka***  [tropsite](https://github.com/Trophic/tropsite) ***aka*** **trophic's website** ***aka***  [@trop.io](instagram.com/trop.io) ***aka*** you get **the point**.
 -----
 #### Have a poke around, it's not really that interesting to non-dev types though. You should probably go back to [trop.io](https://trop.io) and definitely stay away from the ***secrets*** folder.
