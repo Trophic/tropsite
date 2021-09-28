@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pegged Down #1"
-tags: [comics, pd]
+tags: [comics, peggeddown]
 date: 2021-03-01
 ---
 <!-- #82 -->
