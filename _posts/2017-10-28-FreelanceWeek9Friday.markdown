@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Freelance: Week 9 (Friday)"
-tags: [comics, devlyf]
-date: 2017-10-27
+tags: [comics, devlyf, freelance]
+date: 2017-10-28
 ---
-<!-- #24 -->
+<!-- #27 -->
 [![](https://i.imgur.com/TlZGYv3.jpg "source: imgur.com")](https://i.imgur.com/TlZGYv3.jpg)
-This is another comic!
+Hiya! A comic!
