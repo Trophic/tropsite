@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
-title: Trop.io
+title: trop.io
 email: Oh look! Use this E Mail to talk to me!
 url: "https://trop.io"
 excerpt_separator: "<!-- more -->"
+publisher: "trop.io"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-news-sitemap
+  - jekyll-admin
