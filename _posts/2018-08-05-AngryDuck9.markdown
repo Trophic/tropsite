@@ -2,7 +2,7 @@
 layout: post
 title: "Angry Duck #9"
 tags: [comics, angryduck]
-date: 2018-08-05
+date: 2018-08-04
 ---
 <!-- #39 -->
 [![](https://i.imgur.com/G6G9hho.jpg "source: imgur.com")](https://i.imgur.com/G6G9hho.jpg)
