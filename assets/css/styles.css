@@ -137,6 +137,9 @@ input[type=checkbox]:checked + label {
   header li, header ul li + li + li {
     width: 33%; }
 
+  section {
+    width: auto; }
+
   .footer {
     position: bottom;
     float: left; } }
