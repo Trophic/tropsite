@@ -97,7 +97,7 @@ input[type=checkbox]:checked + label {
   display: inline-block; }
 
 /* social icons style */
-.fa-instagram, .fa-linkedin, .fa-github {
+.fa-instagram, .fa-behance, .fa-linkedin, .fa-github {
   color: transparent; }
 
 /* tags style */
